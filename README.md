@@ -1,32 +1,32 @@
 # Luis Andrés Valido Fajardo 
 
 
-## Educación
+## Education
 
-## Educación Online
+## Education Online
 
-## Tesis
+## Thesis
 
-## Tesis de Maestria
+## Master's Thesis
 
-## Experiencia
+## Experience
 
-## Docencia impartida
+## Teaching
 
-## Tutoría de tesis
+## Thesis tutoring
 
-## Oponencia de tesis
+## Thesis opponent
 
-## Lenguajes
+## Idioms
 
-## Herramientas y tecnologías
+## Tools and technologies
 
-## Publicaciones
+## Publications
 
-## Eventos
+## Events
 
-## Investigaciones
+## Research
 
-## Reconocimientos
+## Acknowledgments
 
 
