@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.2.8)  15 MAR 2023 11:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.2.8)  15 MAR 2023 11:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -848,7 +848,7 @@ LaTeX Info: Redefining \nameref on input line 74.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 74.
 \makecvheadpicturebox=\box68
-<picture.png, id=64, 160.6pt x 160.6pt>
+<picture.png, id=120, 160.6pt x 160.6pt>
 File: picture.png Graphic file (type png)
 <use picture.png>
 Package pdftex.def Info: picture.png  used on input line 77.
@@ -950,7 +950,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--11
 ) (./tex_files/eventos.tex [8] [9]) (./tex_files/investigacion.tex)
 (./tex_files/reconocimientos.tex)
 Overfull \hbox (4.9275pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10.95 (-20) 10/[]11[] 
+[]|\T1/lmss/m/sl/10.95 (-20) 10/[]20[] 
  []
 
 [10]
@@ -963,20 +963,95 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--113
 
  []
 
-
+(./tex_files/educacion.tex) (./tex_files/educacion_online.tex
 Overfull \hbox (4.9275pt too wide) has occurred while \output is active
-[]|\T1/lmss/m/sl/10.95 (-20) 11/[]11[] 
+[]|\T1/lmss/m/sl/10.95 (-20) 11/[]20[] 
  []
 
-[11] (./template.aux)
+[11]
+Overfull \hbox (4.9275pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10.95 (-20) 12/[]20[] 
+ []
+
+[12]) (./tex_files/tesis.tex) (./tex_files/tesis_maestria.tex
+Overfull \hbox (4.9275pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10.95 (-20) 13/[]20[] 
+ []
+
+[13]) (./tex_files/experiencia.tex)
+Overfull \hbox (4.9275pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10.95 (-20) 14/[]20[] 
+ []
+
+[14] (./tex_files/docencia.tex) (./tex_files/tutoria_tesis.tex
+Overfull \hbox (4.9275pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10.95 (-20) 15/[]20[] 
+ []
+
+[15]) (./tex_files/oponencia_tesis.tex) (./tex_files/lenguajes.tex)
+(./tex_files/herramientas_tecnologias.tex
+Overfull \hbox (4.9275pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10.95 (-20) 16/[]20[] 
+ []
+
+[16]) (./tex_files/publicaciones.tex
+Overfull \hbox (17.44354pt too wide) in paragraph at lines 4--4
+[]\T1/lmss/m/n/10 (-20) Publicado en mono-grafia.umcc.cu (http://monografias.um
+cc.cu/monos/2018/FCT/mo1871.pdf) 
+ []
+
+
+Overfull \hbox (17.44354pt too wide) in paragraph at lines 5--5
+[]\T1/lmss/m/n/10 (-20) Publicado en mono-grafia.umcc.cu (http://monografias.um
+cc.cu/monos/2018/FCT/mo1872.pdf) 
+ []
+
+
+Overfull \hbox (17.44354pt too wide) in paragraph at lines 6--6
+[]\T1/lmss/m/n/10 (-20) Publicado en mono-grafia.umcc.cu (http://monografias.um
+cc.cu/monos/2018/FCT/mo1876.pdf) 
+ []
+
+
+Overfull \hbox (4.9275pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10.95 (-20) 17/[]20[] 
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\T1/lmss/bx/n/10.95 (+20) El uso de dis-pos-i-tivos móviles en la do-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\T1/lmss/bx/n/10.95 (+20) cen-cia uni-ver-si-taria cubana\T1/lmss/m/n/10.95 (+2
+0) , \T1/lmss/m/sl/10.95 (+20) Academia.edu\T1/lmss/m/n/10.95 (+20) ,
+ []
+
+) (./tex_files/eventos.tex
+Overfull \hbox (4.9275pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10.95 (-20) 18/[]20[] 
+ []
+
+[18]
+Overfull \hbox (4.9275pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10.95 (-20) 19/[]20[] 
+ []
+
+[19]) (./tex_files/investigacion.tex) (./tex_files/reconocimientos.tex)
+Overfull \hbox (4.9275pt too wide) has occurred while \output is active
+[]|\T1/lmss/m/sl/10.95 (-20) 20/[]20[] 
+ []
+
+[20] (./template.aux)
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 8EC748B868412292041D5D7265DC4DF4;1632.
+(rerunfilecheck)             Checksum: 46F5386C556B0C03130CEA78CDB24B33;3282.
  ) 
 Here is how much of TeX's memory you used:
- 22812 strings out of 481167
- 411877 string characters out of 5912903
- 781031 words of memory out of 5000000
- 39063 multiletter control sequences out of 15000+600000
+ 22877 strings out of 481167
+ 413040 string characters out of 5912903
+ 781781 words of memory out of 5000000
+ 39077 multiletter control sequences out of 15000+600000
  468262 words of font info for 159 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  117i,15n,116p,1769b,1009s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -989,10 +1064,10 @@ mssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 sso17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.p
 fb>
-Output written on template.pdf (11 pages, 289921 bytes).
+Output written on template.pdf (20 pages, 327504 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
- 204 compressed objects within 3 object streams
- 26 named destinations out of 1000 (max. 500000)
- 34946 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 427 PDF objects out of 1000 (max. 8388607)
+ 349 compressed objects within 4 object streams
+ 49 named destinations out of 1000 (max. 500000)
+ 35058 words of extra memory for PDF output out of 35830 (max. 10000000)
 
