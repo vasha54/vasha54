@@ -9,7 +9,7 @@
 * **2014**Science Technology and Society*University of Informatics Sciences,Havana*
 * **2014** Creative group work techniques *University of Informatics Sciences,Havana,International Summer School*
 * **2015** Diploma for General Improvement of Training Professionals*University of Informatics Sciences,Havana*
-* **2016-2019** Master in Computer Aided Engineering}{Universidad de Matanzas}{Matanzas}{}
+* **2016-2019** Master in Computer Aided Engineering*Universidad de Matanzas,Matanzas*
 
 ## Education Online
 
