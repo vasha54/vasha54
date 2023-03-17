@@ -2,6 +2,7 @@
 
 
 ## Education
+** 2008-2013 Computer Science Engineering University of Computer Sciences Havana
 
 ## Education Online
 
