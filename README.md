@@ -1,4 +1,4 @@
-![Alt text]([/path/to/img.jpg](https://github.com/vasha54/vasha54/blob/main/picture.png)) # Luis Andrés Valido Fajardo 
+[id]: https://github.com/vasha54/vasha54/blob/main/picture.png # Luis Andrés Valido Fajardo 
 
 
 ## Education
