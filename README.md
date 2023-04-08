@@ -12,9 +12,8 @@
 * **2016-2019** Master in Computer Aided Engineering *University of Matanzas,Matanzas*
 
 ## Education Online
-<img src="https://www.sololearn.com/Certificate/CT-J7BKBYIS/png" title="Course Html.*Sololearn platform*" alt="Course Html.*Sololearn platform*" width="123" height="87">
+<img src="https://www.sololearn.com/Certificate/CT-J7BKBYIS/png" title="Course Html. Sololearn platform"  width="185" height="131">
 
-![]( "")
 
 ## Thesis
 
