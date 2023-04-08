@@ -31,7 +31,7 @@
 
 **Title:** Mechanism for incorporating SVG graphics into the SCADA GALBA HMI.
 
-**Tutors:** Ing. Roberto Cardenas Isla, Ing. Ariel Guerra Garayta
+**Tutors:** Eng. Roberto Cardenas Isla, Eng. Ariel Guerra Garayta
 
 **Description:**  At the University of Informatics Sciences, Faculty 5 has several production centers among which is the Center for Industrial Informatics 
 (CEDIN) where the Guardian of the ALBA (GALBA), which had the task of providing a solution to the development of a SCADA in conjunction with the PDVSA 
