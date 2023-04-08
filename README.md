@@ -13,7 +13,7 @@
 
 ## Education Online
 
-![](https://www.sololearn.com/Certificate/1014-20521103/pdf/ "Course Html.*Sololearn platform*")
+![](https://www.sololearn.com/Certificate/CT-J7BKBYIS/png "Course Html.*Sololearn platform*")
 
 ## Thesis
 
