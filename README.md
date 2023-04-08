@@ -13,6 +13,8 @@
 
 ## Education Online
 
+![](https://www.sololearn.com/Certificate/1014-20521103/pdf/ "Course Html.*Sololearn platform*")
+
 ## Thesis
 
 **Title:** Mechanism for incorporating SVG graphics into the SCADA GALBA HMI.
