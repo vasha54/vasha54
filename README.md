@@ -52,10 +52,15 @@ The work was based on the development of a mechanism for incorporating SVG graph
 ## Experience
 
 **2009-2015** Integral Supervision and Control System of Alba (SCADA GALBA). Developer. *Havana, University of Computer Sciences, Industrial Computer Center*. Module Developer Man-Machine (HMI) belonging to the SCADA Galba project.
+
 **2014-2016** Industrial Automated System based on GNU/LINUX (SCADA SAINUX). Developer. *Havana, University of Computer Sciences, Industrial Computer Center*. Module developer Module-Machine (HMI) belonging to the SCADA SAINUX project.
+
 **2016-2023** Department of Resources for Learning. Developer, Web Master. *Matanzas, University of Matanzas*. Extensions developer to virtual learning environments of the University of Matanzas (Moodle), educational applications for devices with Android operating system. Administrator of virtual learning environments of the University of Matanzas. Installation and deployment of websites with the use of CMS and LMS.
+
 **2016-2022** Informachy Department. Associate Professor. *Matanzas, University of Matanzas*. Teaching category: Instructor
+
 **2021-2022** Combiomed Digital Medical Technology. Developer. *Havana*. Module developer Module-Machine (HMI) of the Software for the Control and Monitoring of the Artificial Fan for COVID-19 patients.
+
 **2021--2023** Pre -University Institute of Exact Sciences of Matanzas. Computer contest coach. *Matanzas*
 
 ## Teaching
