@@ -74,7 +74,7 @@ The work was based on the development of a mechanism for incorporating SVG graph
 ## Tools and technologies
 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/c_.svg" title="C"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/c.svg" title="C++"  width="50" height="50"> 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/c--4.svg" title="C#"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/css.svg" title="CSS"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/c--4.svg" title="C#"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/css.png" title="CSS"  width="50" height="50">
 ## Publications
 
 ## Events
