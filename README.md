@@ -79,14 +79,45 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 ## Thesis tutoring
 
+**2015** *System for the Information Management of Technical Files at the Industrial Computer Center*. Yadriel Cuesta Hechavarría. Informatic Science University, Havana, Diploma work to opt for the title of Computer Science Engineer
+
+**2015** *Network State processor for SCADA-GALBA adjustments to the electricity sector*. Carlos Manuel Castillo Chacón, Jose Manuel Acevedo Medina. Informatic Science University, Havana, Diploma work to opt for the title of Computer Science Engineer
+
+**2016** *Graphic components for the representation of pipe accessories in the SAINUX SCADA*. Rosmery Pedraza Ceballo. Informatic Science University, Havana, Diploma work to opt for the title of Computer Science Engineer
+
+**2016** *Graphic components for the representation of valves and pumps in the SAINUX SCADA*. Claudia María González Fernández. Informatic Science University, Havana, Diploma work to opt for the title of Computer Science Engineer
+
+**2016** *Desktop customer for the display environment of the Men's Machine SAINUX SCADA*. Alik Ramón del Risco del Risco. Informatic Science University, Havana, Diploma work to opt for the title of Computer Science Engineer
+
+**2016** *Graphic components for the representation of switches and selectors at the SAINUX SCADA*. Javier Bravo Calzado. Informatic Science University, Havana, Diploma work to opt for the title of Computer Science Engineer
+
+**2016** *Development of storage graphic components at the SAINUX SCADA*. Luis Orlando Cejas. Informatic Science University, Havana, Diploma work to opt for the title of Computer Science Engineer
+
+**2016** *Serialization mechanism for information managed in the editor SAINUX SCADA*. Alvaro Denis Acosta Quesada. Informatic Science University, Havana, Diploma work to opt for the title of Computer Science Engineer
+
+**2022** *Plugin to measure the quality indicators of Moodle courses*. Hamsel Brea García. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering
+
+**2022** *Computer System for Human Resources Management and Services of the Artistic Creation Project Vigía*. Ramsey Ricardo Busto Martínez. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering
+
+**2023** *Antencional test system for the “Antonio Guiteras” thermoelectric*. Ronald Guillén Sintes. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering
+
+
 ## Thesis opponent
 
 ## Idioms
 
+Spanish *Native*
+
+English *Professional competence*
+
 ## Tools and technologies
 
+#### Programming language
 <img src="https://github.com/vasha54/vasha54/blob/main/img/c_.svg" title="C"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/c.svg" title="C++"  width="50" height="50"> 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/c--4.svg" title="C#"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/css.png" title="CSS"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/c--4.svg" title="C#"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/java.png" title="Java"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/python.png" title="Python"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/css.png" title="CSS"  width="50" height="50">
+
+#### Operating systems
 
 ## Publications
 
