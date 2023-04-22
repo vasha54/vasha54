@@ -119,6 +119,20 @@ English *Professional competence*
 
 #### Operating systems
 
+#### Frameworks
+
+#### Content management system
+
+#### 2D graphic design
+
+#### CASE Tool
+
+#### Web server
+
+#### Text processor
+
+#### Version control
+
 ## Publications
 
 ## Events
