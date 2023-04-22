@@ -12,21 +12,21 @@
 * **2016-2019** Master in Computer Aided Engineering *University of Matanzas,Matanzas*
 
 ## Education Online
-<img src="https://www.sololearn.com/Certificate/CT-J7BKBYIS/png" title="Course Html. Sololearn platform"  width="185" height="131">                     <img src="https://www.sololearn.com/Certificate/CT-GIZUPWSK/png" title="Course C. Sololearn platform"  width="185" height="131"> 
-<img src="https://www.sololearn.com/Certificate/CT-X4YJN5RI/png" title="Course CSS. Sololearn platform"  width="185" height="131">                      <img src="https://www.sololearn.com/Certificate/CT-8KXLUTZI/png" title="Course C++. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-75QAN4QY/png" title="Course SQL. Sololearn platform"  width="185" height="131">                      <img src="https://www.sololearn.com/Certificate/CT-SXLBHLIX/png" title="Course Machine Learning. Sololearn platform"  width="185" height="131"> 
-<img src="https://www.sololearn.com/Certificate/CT-56GRQ2PK/png" title="Course Java. Sololearn platform"  width="185" height="131">                     <img src="https://www.sololearn.com/Certificate/CT-4AZGVOXM/png" title="Course Python for Beginners. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-5J8NJR50/png" title="Course Ruby. Sololearn platform"  width="185" height="131">                     <img src="https://www.sololearn.com/Certificate/CT-9764VW49/png" title="Curso Intermediate Python. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-12BTCXH6/png" title="Course PHP. Sololearn platform"  width="185" height="131">                      <img src="https://www.sololearn.com/Certificate/CT-BWLDDEVF/png" title="Course Python Data Structures. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-8DMGUXRO/png" title="Course JQuery. Sololearn platform"  width="185" height="131">                   <img src="https://www.sololearn.com/Certificate/CT-AATE6109/png" title="Course Responsive Web Design. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-ZEXINUCP/png" title="Course JavaScript. Sololearn platform"  width="185" height="131">               <img src="https://www.sololearn.com/Certificate/CT-QYALSUYF/png" title="Course Kotlin. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-LTR2HUX2/png" title="Course C#. Sololearn platform"  width="185" height="131">                       <img src="https://www.sololearn.com/Certificate/CT-XNQTOZGA/png" title="Course Go. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-0B3PAICQ/png" title="Course Swift 4. Sololearn platform"  width="185" height="131">                  <img src="https://www.sololearn.com/Certificate/CT-ER4MEHEP/png" title="Course Python for Data Science. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-ORLIT2SJ/png" title="Course Python 3. Sololearn platform"  width="185" height="131">                 <img src="https://www.sololearn.com/Certificate/CT-2ZWKNPXO/png" title="Course Coding for Marketers. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-VNUW1VWK/png" title="Course React + Redux. Sololearn platform"  width="185" height="131">            <img src="https://www.sololearn.com/Certificate/CT-6XE9KDOS/png" title="Course R. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-UO7KDXJX/png" title="Course Angular + NestJS. Sololearn platform"  width="185" height="131">         <img src="https://www.sololearn.com/Certificate/CT-SVOODSTG/png" title="Course Python for Finance. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-PWN12SFU/png" title="Course Data Science with Python. Sololearn platform"  width="185" height="131"> <img src="https://www.sololearn.com/Certificate/CT-FA0PRUHK/png" title="Course Game Development with JS. Sololearn platform"  width="185" height="131">
-<img src="https://www.sololearn.com/Certificate/CT-OAQO4EY5/png" title="Course Web Development Fundamentals course. Sololearn platform"  width="185" height="131">
+<img src="https://www.sololearn.com/Certificate/CT-J7BKBYIS/png" title="Course Html. Sololearn platform"  width="138" height="91">                     <img src="https://www.sololearn.com/Certificate/CT-GIZUPWSK/png" title="Course C. Sololearn platform"  width="138" height="91"> 
+<img src="https://www.sololearn.com/Certificate/CT-X4YJN5RI/png" title="Course CSS. Sololearn platform"  width="138" height="91">                      <img src="https://www.sololearn.com/Certificate/CT-8KXLUTZI/png" title="Course C++. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-75QAN4QY/png" title="Course SQL. Sololearn platform"  width="138" height="91">                      <img src="https://www.sololearn.com/Certificate/CT-SXLBHLIX/png" title="Course Machine Learning. Sololearn platform"  width="138" height="91"> 
+<img src="https://www.sololearn.com/Certificate/CT-56GRQ2PK/png" title="Course Java. Sololearn platform"  width="138" height="91">                     <img src="https://www.sololearn.com/Certificate/CT-4AZGVOXM/png" title="Course Python for Beginners. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-5J8NJR50/png" title="Course Ruby. Sololearn platform"  width="138" height="91">                     <img src="https://www.sololearn.com/Certificate/CT-9764VW49/png" title="Curso Intermediate Python. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-12BTCXH6/png" title="Course PHP. Sololearn platform"  width="138" height="91">                      <img src="https://www.sololearn.com/Certificate/CT-BWLDDEVF/png" title="Course Python Data Structures. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-8DMGUXRO/png" title="Course JQuery. Sololearn platform"  width="138" height="91">                   <img src="https://www.sololearn.com/Certificate/CT-AATE6109/png" title="Course Responsive Web Design. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-ZEXINUCP/png" title="Course JavaScript. Sololearn platform"  width="138" height="91">               <img src="https://www.sololearn.com/Certificate/CT-QYALSUYF/png" title="Course Kotlin. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-LTR2HUX2/png" title="Course C#. Sololearn platform"  width="138" height="91">                       <img src="https://www.sololearn.com/Certificate/CT-XNQTOZGA/png" title="Course Go. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-0B3PAICQ/png" title="Course Swift 4. Sololearn platform"  width="138" height="91">                  <img src="https://www.sololearn.com/Certificate/CT-ER4MEHEP/png" title="Course Python for Data Science. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-ORLIT2SJ/png" title="Course Python 3. Sololearn platform"  width="138" height="91">                 <img src="https://www.sololearn.com/Certificate/CT-2ZWKNPXO/png" title="Course Coding for Marketers. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-VNUW1VWK/png" title="Course React + Redux. Sololearn platform"  width="138" height="91">            <img src="https://www.sololearn.com/Certificate/CT-6XE9KDOS/png" title="Course R. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-UO7KDXJX/png" title="Course Angular + NestJS. Sololearn platform"  width="138" height="91">         <img src="https://www.sololearn.com/Certificate/CT-SVOODSTG/png" title="Course Python for Finance. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-PWN12SFU/png" title="Course Data Science with Python. Sololearn platform"  width="138" height="91"> <img src="https://www.sololearn.com/Certificate/CT-FA0PRUHK/png" title="Course Game Development with JS. Sololearn platform"  width="138" height="91">
+<img src="https://www.sololearn.com/Certificate/CT-OAQO4EY5/png" title="Course Web Development Fundamentals course. Sololearn platform"  width="138" height="91">
 ## Thesis
 
 **Title:** Mechanism for incorporating SVG graphics into the SCADA GALBA HMI.
@@ -65,6 +65,18 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 ## Teaching
 
+**2016-2016** Python programming language, Informatics Engineering. *Matanzas, University of Matanzas.* 5th year
+
+**2016-2022** Computer architecture, Informatics Engineering. *Matanzas, University of Matanzas.* 2nd year
+
+**2017-2020** Specific preparation for ICPC competitions, Informatics Engineering. *Matanzas, University of Matanzas.* 1st, 2nd and 3rd year
+
+**2019-2019** Android course, Bachelor of Computer Education. *Matanzas, University of Matanzas.* 3rd year
+
+**2019-2022** Introduction to programming, Informatics Engineering. *Matanzas, University of Matanzas.* 1st year
+
+**2020--2022** Design and object-oriented programming, Informatics Engineering. *Matanzas, University of Matanzas.* 1st year
+
 ## Thesis tutoring
 
 ## Thesis opponent
@@ -75,6 +87,7 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/c_.svg" title="C"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/c.svg" title="C++"  width="50" height="50"> 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/c--4.svg" title="C#"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/css.png" title="CSS"  width="50" height="50">
+
 ## Publications
 
 ## Events
