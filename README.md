@@ -104,6 +104,10 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 ## Thesis opponent
 
+**2017** *Software for the management of internal client information in hotel systems from the endonarcoeting perspective*. Fabianne Díaz Santiago. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering
+
+**2019** *Computer Information System for the Directorate of the University of Matanzas, SID*. Rasiel Valdespino Jiménez. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering 
+
 ## Idioms
 
 Spanish *Native*
@@ -116,12 +120,25 @@ English *Professional competence*
 <img src="https://github.com/vasha54/vasha54/blob/main/img/c_.svg" title="C"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/c.svg" title="C++"  width="50" height="50"> 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/c--4.svg" title="C#"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/java.png" title="Java"  width="50" height="50">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/python.png" title="Python"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/css.png" title="CSS"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/html.png" title="Html"  width="50" height="50">  <img src="https://github.com/vasha54/vasha54/blob/main/img/js.png" title="JavaScript"  width="50" height="50"> 
+<img src="https://github.com/vasha54/vasha54/blob/main/img/php.png" title="PHP"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/bash.png" title="Bash"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/sql.png" title="SQL"  width="50" height="50">
 
 #### Operating systems
 
+<img src="https://github.com/vasha54/vasha54/blob/main/img/debian.png" title="Debian"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/ubuntu.png" title="Ubuntu"  width="50" height="50"> 
+<img src="https://github.com/vasha54/vasha54/blob/main/img/windows.png" title="Windows"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/android.png" title="Android"  width="50" height="50">
+
 #### Frameworks
 
+<img src="https://github.com/vasha54/vasha54/blob/main/img/angularjs.png" title="AngularJS"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/bootstrap.png" title="Bootstrap"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/codeingiter.png" title="Codeingiter" width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/django.png" title="Django" width="50" height="50"> 
+<img src="https://github.com/vasha54/vasha54/blob/main/img/jquery.png" title="jQuery" width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/qt.png" title="Qt" width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/yii.png" title="Yii" width="50" height="50">
+ 
 #### Content management system
+
+<img src="https://github.com/vasha54/vasha54/blob/main/img/joomla.png" title="Joomla"  width="50" height="50">
 
 #### 2D graphic design
 
@@ -135,10 +152,117 @@ English *Professional competence*
 
 ## Publications
 
+**2017** *Mechanism for the automation of backup copies of the Virtual Learning Environment of the University of Matanzas*. VIII International Scientific Convention of the University of Matanzas, V International Engineering Workshop, Matanzas. Published in citc.umcc.cu with the ISBN code: 978-959-16-3296-8
+
+**2017** *"Cesar and the numbers": computer resource to promote the learning of the sum operation, in the first grade*. XIX International Event "Mathematics, Statistics and Computing", MATECOMPU 2017, Varadero. Published in citc.umcc.cu with the ISBN code: 978-959-16-3671-3
+
+**2018** *Support tool for the probability and statistics subject to graph probability distributions in the distance education study modality of the University of Matanzas*. Opuntia Brava Magazine, Group I Cuban Classification, Las Tunas, Published in the book Science and technological innovation vol II, in the chapter Distance learning. With ISBN for the complete work 978-959-7225-26-3, ISBN for the chapter 978-959-7225-34-8
+
+**2018** *Development of the Bezier quadratic and cubic curve graphic components*. Monographs, University of Matanzas ,Matanzas.
+
+**2018** *Graphical user interface for interaction with SCADA SAINUX modules (VSERSAI)*. Monographs, University of Matanzas ,Matanzas.
+
+**2018** *ROFLEXIN/LC system Man-Machine Interface viewer for Android mobile devices*. Monographs, University of Matanzas ,Matanzas.
+
+**2019** *Intelligent and low-cost monitoring architecture for mechanical system and processes*. IX International Scientific Conference, Holguin University, Holguín. ISBN:978-959-7237-34-1
+
+**2020** *MiGimusic: APK to promote musical education in pioneering Rhythmic Gymnastics*. International Congress online CUBAMTRICIDAD}{University of Sciences of Physical Culture and Sport "Manuel Fajardo", Havana. ISBN:978-959-07-2395-7
+
+**2020** *Technological innovation for musical education in Musical Rhythmic Gymnastics*. 1st National ONLINE Innovation Workshop, National Institute of Sports Physical Education and Recreation, Havana. ISBN:978-959-203-237-8
+
+**2021** *The use of mobile devices in Cuban university teaching*. Academia.edu.
+
+**2021** *The use of mobile devices. An innovative experience in professional training*. Book: The science of the University of Matanzas in the confrontation with COVID-19. Editorial UM
+
+
 ## Events
+
+**2008** *Pascal Cup*. University of Computer Sciences,Havana .Contestant 
+
+**2009** *Pascal Cup*. University of Computer Sciences,Havana .Contestant 
+
+**2010** *Pascal Cup*. University of Computer Sciences,Havana .Contestant 
+
+**2011** *Pascal Cup*. University of Computer Sciences,Havana .Contestant 
+
+**2011** *Cuban Final of ACM-ICPC*. University of Computer Sciences, Havana. Contestant
+
+**2011** *My website for Cuba*. University of Computer Sciences,Havana. Relevant
+
+**2012** *Pascal Cup*. University of Computer Sciences,Havana .Contestant 
+
+**2012** *Student Scientific Conference*. University of Computer Sciences, Havana. Three relevant, one outstanding and three mentions.
+
+**2012** *My website for Cuba*. University of Computer Sciences,Havana. One outstanding and one mention.
+
+**2013** *Student Scientific Conference*. University of Computer Sciences, Havana. Outstanding.
+
+**2015** *Pachamama Game Jam*. University of Computer Sciences, Havana. Third place.
+
+**2017** *VI UM Programming Cup*. University of Matanzas, Matanzas. Third place, Coach.
+
+**2017** *CEPROMEDE Scientific Conference*. Provincial Center of Sports Medicine, Matanzas.
+
+**2017** *Cuban Final of ACM-ICPC*. Technological University of Havana José Antonio Echeverría, Havana. Coach
+
+**2017** *XIX International Event "The teaching of Mathematics, Statistics and Computing"*. University of Matanzas, Matanzas. Paper: "César and the numbers": Computer resource to favor the learning of the operation sum, in the first grade
+
+**2017** *Cyber-physical Systems Seminar: Modeling and Control*. University of Matanzas, Matanzas.
+
+**2018** *VII UM Programming Cup*. University of Matanzas, Matanzas. Coach.
+
+**2018** *XIV Methodological Scientific Conference of the University of Matanzas*.  University of Matanzas, Matanzas.
+
+**2018** *Local Constest ACM-ICPC*. University of Matanzas, Matanzas. 2nd place ,Coach.
+
+**2018** *ACM-ICPC National Competition*. Military Technical Institute "Jose Martí", Havana. Coach.
+
+**2018** *University Forum of Sciences and Techniques*. University of Matanzas, Matanzas. Presentation: Application for monitoring systems and mechanical processes from mobile devices. Mention.
+
+**2018** *II International Symposium of the Network of Researchers of Science and Technology: Science and Technological Innovation*. Las Tunas. Presentation: Support tool for the probability and statistics subject to graph probability distributions in the distance education study modality of the University of Matanzas.
+
+**2019** *Seminar Computational intelligence for modeling and control of industrial cyber physical system: Research challenges and opportunities*. University of Matanzas, Matanzas.
+
+**2019** *VIII UM Programming Cup*. University of Matanzas, Matanzas. Coach and organizer.
+
+**2019** *IX International Scientific Convention*. VI International Engineering Workshop, University of Matanzas, Matanzas. ROFLEXIN/LC system man-machine interface viewer for mobile devices.
+
+**2019** *IX International Scientific Conference*. Holguin University, Holguín. Intelligent and low-cost monitoring architecture for mechanical system and processes.
+
+**2019** *ICPC National Competition*. University of Matanzas, Matanzas. Coach.
+
+**2019** *ICPC Caribbean Regional Final*. Eastern University, Santiago de Cuba. Coach.
+
+**2020** *First Online Innovation Workshop*. Technological innovation for music education in pioneering rhythmic gymnastics, INDER.
+
+**2021** *ICPC Caribbean Finals (Qualifier)*. Provincial Directorate of Education, Matanzas. Preuniversity Teams - Bronze, Coach.
+
+**2022** *ICPC Caribbean Finals (Qualifier)*. University of Matanzas, Matanzas. Coach.
+
+**2022** *ICPC Caribbean Regional Final*. University of Computer Sciences, Havana. Coach.
+
+**2023** *ICPC Caribbean Finals (Qualifier)*. University of Matanzas, Matanzas. Preuniversity Teams - Bronze, Coach.
+
+**2023** *ICPC Caribbean Regional Final*. University of Computer Sciences, Havana. Coach.
 
 ## Research
 
+**2020** *Educating with José Martí in the Cuban school*. Education Faculty, University of Matanzas. Collaborator
+
 ## Acknowledgments
+
+**2013** *Productive results*. Havana, Informatic Science University, Faculty 5.
+
+**2014** *Software developer*. Havana, Informatic Science University, Industrial Computing Center.
+
+**2014** *Outstanding*. Havana, Informatic Science University, Industrial Computing Center.
+
+**2017** *Guest*. ACM-ICPC Caribbean Regional Final, Villa Clara, Central University of Las Villas "Marta Abreu".
+
+**2018** *Guest*. ACM-ICPC Caribbean Regional Final, Havana, Informatic Science University.
+
+**2019** *Acknowledgment*. Outstanding Quality Worker, Matanzas, University of Matanzas. 
+
+
 
 
