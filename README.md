@@ -12,7 +12,7 @@
 * **2016-2019** Master in Computer Aided Engineering *University of Matanzas,Matanzas*
 
 ## Education Online
-<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_html.png" title="Course Html. Sololearn platform"  width="138" height="91">                     <img src="https://www.sololearn.com/Certificate/CT-GIZUPWSK/png" title="Course C. Sololearn platform"  width="138" height="91"> 
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_html.png" title="Course Html. Sololearn platform"  width="138" height="91">  <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c.png" title="Course C. Sololearn platform"  width="138" height="91"> 
 <img src="https://www.sololearn.com/Certificate/CT-X4YJN5RI/png" title="Course CSS. Sololearn platform"  width="138" height="91">                      <img src="https://www.sololearn.com/Certificate/CT-8KXLUTZI/png" title="Course C++. Sololearn platform"  width="138" height="91">
 <img src="https://www.sololearn.com/Certificate/CT-75QAN4QY/png" title="Course SQL. Sololearn platform"  width="138" height="91">                      <img src="https://www.sololearn.com/Certificate/CT-SXLBHLIX/png" title="Course Machine Learning. Sololearn platform"  width="138" height="91"> 
 <img src="https://www.sololearn.com/Certificate/CT-56GRQ2PK/png" title="Course Java. Sololearn platform"  width="138" height="91">                     <img src="https://www.sololearn.com/Certificate/CT-4AZGVOXM/png" title="Course Python for Beginners. Sololearn platform"  width="138" height="91">
