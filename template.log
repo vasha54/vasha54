@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.1.7)  22 APR 2023 20:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.2.8)  25 APR 2023 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1034,12 +1034,12 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: F1DDB79DF4C0338E0D5DD51D4D20B7C9;3095.
  ) 
 Here is how much of TeX's memory you used:
- 22941 strings out of 481190
- 413884 string characters out of 5913951
- 780711 words of memory out of 5000000
- 39041 multiletter control sequences out of 15000+600000
+ 22941 strings out of 479304
+ 413884 string characters out of 5869780
+ 785569 words of memory out of 5000000
+ 39285 multiletter control sequences out of 15000+600000
  472791 words of font info for 199 fonts, out of 8000000 for 9000
- 40 hyphenation exceptions out of 8191
+ 1141 hyphenation exceptions out of 8191
  117i,15n,116p,1769b,1009s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/shar
@@ -1050,7 +1050,7 @@ mssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 sso17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.p
 fb>
-Output written on template.pdf (21 pages, 329673 bytes).
+Output written on template.pdf (21 pages, 329689 bytes).
 PDF statistics:
  439 PDF objects out of 1000 (max. 8388607)
  358 compressed objects within 4 object streams
