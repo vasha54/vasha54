@@ -145,6 +145,8 @@ English *Professional competence*
 
 #### 2D graphic design
 
+<img src="https://github.com/vasha54/vasha54/blob/main/img/inkscape.svg" title="Inkscape"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/gimp.svg" title="GIMP"  width="50" height="50">
+
 #### CASE Tool
 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/visual_paradigm.png" title="Visual Paradigm"  width="50" height="50">
