@@ -138,8 +138,7 @@ English *Professional competence*
  
 #### Content management system
 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/joomla.png" title="Joomla"  width="50" height="50">
-<img src="https://github.com/vasha54/vasha54/blob/main/img/wordpress.svg" title="Wordpress"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/joomla.png" title="Joomla"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/wordpress.svg" title="Wordpress"  width="50" height="50">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/moodle.svg" title="Moodle"  width="50" height="50">
 
 #### Database manager
@@ -152,8 +151,7 @@ English *Professional competence*
 
 #### Web server
 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/apache.svg" title="Apache"  width="50" height="50">
-<img src="https://github.com/vasha54/vasha54/blob/main/img/nginx.svg" title="NGINX"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/apache.svg" title="Apache"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/nginx.svg" title="NGINX"  width="50" height="50">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/xampp.svg" title="XAMPP"  width="50" height="50">
 
 #### Text processor
