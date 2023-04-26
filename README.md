@@ -143,7 +143,8 @@ English *Professional competence*
 
 #### Database manager
 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/postgresql.svg" title="Postgresql"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/postgresql.svg" title="Postgresql"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/mariadb_black.svg" title="MariaDB"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/mysql.svg" title="MySQL"  width="50" height="50">
 
 #### 2D graphic design
 
