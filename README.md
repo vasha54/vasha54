@@ -1,4 +1,4 @@
-![id]( https://github.com/vasha54/vasha54/blob/main/picture.png) 
+﻿![id]( https://github.com/vasha54/vasha54/blob/main/picture.png) 
 # Luis Andrés Valido Fajardo 
 
 
@@ -12,21 +12,21 @@
 * **2016-2019** Master in Computer Aided Engineering *University of Matanzas,Matanzas*
 
 ## Education Online
-<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_html.png" title="Course Html. Sololearn platform"  width="138" height="91">  <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c.png" title="Course C. Sololearn platform"  width="138" height="91"> 
-<img src="https://www.sololearn.com/Certificate/CT-X4YJN5RI/png" title="Course CSS. Sololearn platform"  width="138" height="91">                      <img src="https://www.sololearn.com/Certificate/CT-8KXLUTZI/png" title="Course C++. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-75QAN4QY/png" title="Course SQL. Sololearn platform"  width="138" height="91">                      <img src="https://www.sololearn.com/Certificate/CT-SXLBHLIX/png" title="Course Machine Learning. Sololearn platform"  width="138" height="91"> 
-<img src="https://www.sololearn.com/Certificate/CT-56GRQ2PK/png" title="Course Java. Sololearn platform"  width="138" height="91">                     <img src="https://www.sololearn.com/Certificate/CT-4AZGVOXM/png" title="Course Python for Beginners. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-5J8NJR50/png" title="Course Ruby. Sololearn platform"  width="138" height="91">                     <img src="https://www.sololearn.com/Certificate/CT-9764VW49/png" title="Curso Intermediate Python. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-12BTCXH6/png" title="Course PHP. Sololearn platform"  width="138" height="91">                      <img src="https://www.sololearn.com/Certificate/CT-BWLDDEVF/png" title="Course Python Data Structures. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-8DMGUXRO/png" title="Course JQuery. Sololearn platform"  width="138" height="91">                   <img src="https://www.sololearn.com/Certificate/CT-AATE6109/png" title="Course Responsive Web Design. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-ZEXINUCP/png" title="Course JavaScript. Sololearn platform"  width="138" height="91">               <img src="https://www.sololearn.com/Certificate/CT-QYALSUYF/png" title="Course Kotlin. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-LTR2HUX2/png" title="Course C#. Sololearn platform"  width="138" height="91">                       <img src="https://www.sololearn.com/Certificate/CT-XNQTOZGA/png" title="Course Go. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-0B3PAICQ/png" title="Course Swift 4. Sololearn platform"  width="138" height="91">                  <img src="https://www.sololearn.com/Certificate/CT-ER4MEHEP/png" title="Course Python for Data Science. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-ORLIT2SJ/png" title="Course Python 3. Sololearn platform"  width="138" height="91">                 <img src="https://www.sololearn.com/Certificate/CT-2ZWKNPXO/png" title="Course Coding for Marketers. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-VNUW1VWK/png" title="Course React + Redux. Sololearn platform"  width="138" height="91">            <img src="https://www.sololearn.com/Certificate/CT-6XE9KDOS/png" title="Course R. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-UO7KDXJX/png" title="Course Angular + NestJS. Sololearn platform"  width="138" height="91">         <img src="https://www.sololearn.com/Certificate/CT-SVOODSTG/png" title="Course Python for Finance. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-PWN12SFU/png" title="Course Data Science with Python. Sololearn platform"  width="138" height="91"> <img src="https://www.sololearn.com/Certificate/CT-FA0PRUHK/png" title="Course Game Development with JS. Sololearn platform"  width="138" height="91">
-<img src="https://www.sololearn.com/Certificate/CT-OAQO4EY5/png" title="Course Web Development Fundamentals course. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_html.png" title="Course Html. Sololearn platform"  width="138" height="91">                                      <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c.png" title="Course C. Sololearn platform"  width="138" height="91"> 
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_css.png" title="Course CSS. Sololearn platform"  width="138" height="91">                                        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c_plusplus.png" title="Course C++. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_sql.png" title="Course SQL. Sololearn platform"  width="138" height="91">                                        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_machine_learning.png" title="Course Machine Learning. Sololearn platform"  width="138" height="91"> 
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_java.png" title="Course Java. Sololearn platform"  width="138" height="91">                                      <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_beginners.png" title="Course Python for Beginners. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_ruby.png" title="Course Ruby. Sololearn platform"  width="138" height="91">                                      <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_intermediate_python.png" title="Curso Intermediate Python. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_php.png" title="Course PHP. Sololearn platform"  width="138" height="91">                                        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_structures.png" title="Course Python Data Structures. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_jquery.png" title="Course JQuery. Sololearn platform"  width="138" height="91">                                  <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_responsive_web_design.png" title="Course Responsive Web Design. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_javascript.png" title="Course JavaScript. Sololearn platform"  width="138" height="91">                          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_kotlin.png" title="Course Kotlin. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_csharp.png" title="Course C#. Sololearn platform"  width="138" height="91">                                  <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_go.png" title="Course Go. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_switf_4.png" title="Course Swift 4. Sololearn platform"  width="138" height="91">                             <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_science.png" title="Course Python for Data Science. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_core.png" title="Course Python Core. Sololearn platform"  width="138" height="91">                            <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_coding_marketers.png" title="Course Coding for Marketers. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_react_redux.png" title="Course React + Redux. Sololearn platform"  width="138" height="91">                       <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_r.png" title="Course R. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_angular_nestjs.png" title="Course Angular + NestJS. Sololearn platform"  width="138" height="91">                    <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_finance.png" title="Course Python for Finance. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_science.png" title="Course Data Science with Python. Sololearn platform"  width="138" height="91">            <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_game_development_js.png" title="Course Game Development with JS. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_web_development_fundamentals.png" title="Course Web Development Fundamentals course. Sololearn platform"  width="138" height="91">
 ## Thesis
 
 **Title:** Mechanism for incorporating SVG graphics into the SCADA GALBA HMI.
@@ -143,7 +143,11 @@ English *Professional competence*
 
 #### Database manager
 
+<img src="https://github.com/vasha54/vasha54/blob/main/img/postgresql.svg" title="Postgresql"  width="50" height="50">
+
 #### 2D graphic design
+
+<img src="https://github.com/vasha54/vasha54/blob/main/img/inkscape.svg" title="Inkscape"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/gimp.svg" title="GIMP"  width="50" height="50">
 
 #### CASE Tool
 
