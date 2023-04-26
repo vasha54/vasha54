@@ -1,4 +1,4 @@
-﻿![id]( https://github.com/vasha54/vasha54/blob/main/picture.png) 
+![id]( https://github.com/vasha54/vasha54/blob/main/picture.png) 
 # Luis Andrés Valido Fajardo 
 
 
