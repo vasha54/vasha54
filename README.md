@@ -119,7 +119,7 @@ English *Professional competence*
 #### Programming language
 <img src="https://github.com/vasha54/vasha54/blob/main/img/c_.svg" title="C"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/c.svg" title="C++"  width="50" height="50"> 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/c--4.svg" title="C#"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/java.png" title="Java"  width="50" height="50">
-<img src="https://github.com/vasha54/vasha54/blob/main/img/python.png" title="Python"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/css.png" title="CSS"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/python.png" title="Python"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/css.svg" title="CSS"  width="50" height="50">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/html.png" title="Html"  width="50" height="50">  <img src="https://github.com/vasha54/vasha54/blob/main/img/js.jpeg" title="JavaScript"  width="50" height="50"> 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/php.svg" title="PHP"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/bash.png" title="Bash"  width="50" height="50">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/sql.png" title="SQL"  width="50" height="50">
