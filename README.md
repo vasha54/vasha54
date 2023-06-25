@@ -61,7 +61,7 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 **2021-2022** Combiomed Digital Medical Technology. Developer. *Havana*. Module developer Module-Machine (HMI) of the Software for the Control and Monitoring of the Artificial Fan for COVID-19 patients.
 
-**2021--2023** Pre -University Institute of Exact Sciences of Matanzas. Computer contest coach. *Matanzas*
+**2021--2023** Vocational Preuniversity Institute of Exact Sciences *Carlos Marx* of Matanzas. Competitive programming coach. *Matanzas*
 
 ## Teaching
 
@@ -278,7 +278,9 @@ English *Professional competence*
 
 **2018** *Guest*. ACM-ICPC Caribbean Regional Final, Havana, Informatic Science University.
 
-**2019** *Acknowledgment*. Outstanding Quality Worker, Matanzas, University of Matanzas. 
+**2019** *Acknowledgment*. Outstanding Quality Worker, Matanzas, University of Matanzas.
+
+**2023** *Acknowledgment*. Competitive programming coach, Matanzas, Vocational Preuniversity Institute of Exact Sciences *Carlos Marx*. 
 
 
 
