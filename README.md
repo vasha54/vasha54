@@ -137,7 +137,7 @@ English *Professional competence*
 <img src="https://github.com/vasha54/vasha54/blob/main/img/codeingiter.png" title="Codeingiter" width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/jquery.png" title="jQuery" width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/qt.png" title="Qt" width="50" height="50">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/yii.png" title="Yii" width="50" height="50">
 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/django.png" title="Django" width="50" height="50"> *Implementation of web systems for the management of human resources, tourist resources, control and planning of activities, generation of payroll for human resources in Excel and PDF format. Implementation of APIs using \emph{django-rest-framework} for the communication of other applications with a system developed in Django. Customizing the Django admin panel. Implementation of multilingual systems not only in the graphical user interface but also in the content stored in the database.*
+<img src="https://github.com/vasha54/vasha54/blob/main/img/django.png" title="Django" width="50" height="50"> *Implementation of web systems for the management of human resources, tourist resources, control and planning of activities, generation of payroll for human resources in Excel and PDF format. Implementation of APIs using django-rest-framework for the communication of other applications with a system developed in Django. Customizing the Django admin panel. Implementation of multilingual systems not only in the graphical user interface but also in the content stored in the database.*
  
 #### Content management system
 
