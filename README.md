@@ -170,6 +170,10 @@ English *Professional competence*
 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/git.svg" title="Git"  width="50" height="50">
 
+#### Software development methodology
+
+<img src="https://github.com/vasha54/vasha54/blob/main/img/xp.png" title="Extreme Programming (XP)"  width="100" height="50">
+
 ## Publications
 
 **2017** *Mechanism for the automation of backup copies of the Virtual Learning Environment of the University of Matanzas*. VIII International Scientific Convention of the University of Matanzas, V International Engineering Workshop, Matanzas. Published in citc.umcc.cu with the ISBN code: 978-959-16-3296-8
