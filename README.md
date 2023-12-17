@@ -27,6 +27,7 @@
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_angular_nestjs.png" title="Course Angular + NestJS. Sololearn platform"  width="138" height="91">                    <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_finance.png" title="Course Python for Finance. Sololearn platform"  width="138" height="91">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_science.png" title="Course Data Science with Python. Sololearn platform"  width="138" height="91">            <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_game_development_js.png" title="Course Game Development with JS. Sololearn platform"  width="138" height="91">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_web_development_fundamentals.png" title="Course Web Development Fundamentals course. Sololearn platform"  width="138" height="91"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_python.png" title="Course Introduction to Python. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_developer.png" title="Course Python Developer. Sololearn platform"  width="138" height="91">
 ## Thesis
 
 **Title:** Mechanism for incorporating SVG graphics into the SCADA GALBA HMI.
@@ -101,6 +102,11 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 **2023** *Antencional test system for the “Antonio Guiteras” thermoelectric*. Ronald Guillén Sintes. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering
 
+**2023** *Computer system for physical test management in the sports selection process in the province of Matanzas*. Javier Alejandro González Muñiz. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering
+
+**2023** *Computer system for the commercial value of the tourist offer of the destination city Matanzas*. Randy Mederos Santana. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering
+
+**2023** *Notification plugin of request to create courses in the Moodle to the category managers*. Ana Mónica Rodríguez García. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering
 
 ## Thesis opponent
 
