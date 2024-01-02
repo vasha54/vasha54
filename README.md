@@ -64,6 +64,13 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 **2021--2023** Vocational Preuniversity Institute of Exact Sciences *Carlos Marx* of Matanzas. Competitive programming coach. *Matanzas*
 
+**2023-2024** Network Department. Specialist B. *Matanzas, University of Matanzas*. Technical support of the Virtual Learning Environments of the University of Matanzas. Installation and deployment of websites using LMS Moodle.
+
+**2023-2024** INNOVAT. Developer. *Matanzas*. Design and implementation of the PSGAME+ application for Android mobile devices.
+
+**2023-2024** Merchise Autrement. Developer. *[Business Solutions on Odoo, consulting and implementation](https://www.merchise.org/es)*. Implementation of functionalities. Corrections of non-conformities.
+
+
 ## Teaching
 
 **2016-2016** Python programming language, Informatics Engineering. *Matanzas, University of Matanzas.* 5th year
