@@ -28,6 +28,7 @@
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_science.png" title="Course Data Science with Python. Sololearn platform"  width="138" height="91">            <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_game_development_js.png" title="Course Game Development with JS. Sololearn platform"  width="138" height="91">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_web_development_fundamentals.png" title="Course Web Development Fundamentals course. Sololearn platform"  width="138" height="91"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_python.png" title="Course Introduction to Python. Sololearn platform"  width="138" height="91">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_developer.png" title="Course Python Developer. Sololearn platform"  width="138" height="91">      <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_csharp.png" title="Course Introduction to C#. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_intermediate_csharp.png" title="Course Cs# Intermediate. Sololearn platform"  width="138" height="91">
 ## Thesis
 
 **Title:** Mechanism for incorporating SVG graphics into the SCADA GALBA HMI.
