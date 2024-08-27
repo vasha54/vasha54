@@ -31,7 +31,7 @@
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_intermediate_csharp.png" title="Course Cs# Intermediate. Sololearn platform"  width="138" height="91">   <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_css.png" title="Course Introduction to CSS. Sololearn platform"  width="138" height="91">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_sql.png" title="Course Introduction to SQL. Sololearn platform"  width="138" height="91">    <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_html.png" title="Course Introduction to Html. Sololearn platform"  width="138" height="91">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_java.png" title="Course Introduction to Java. Sololearn platform"  width="138" height="91">   <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_javascript.png" title="Course Introduction to JavaScript. Sololearn platform"  width="138" height="91">
-<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_cplusplus.png" title="Course Introduction to C++. Sololearn platform"  width="138" height="91">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_cplusplus.png" title="Course Introduction to C++. Sololearn platform"  width="138" height="91"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_tech_everyone.png" title="Course Tech for Everyone. Sololearn platform"  width="138" height="91">
 ## Thesis
 
 **Title:** Mechanism for incorporating SVG graphics into the SCADA GALBA HMI.
