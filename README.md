@@ -291,6 +291,8 @@ English *Professional competence*
 
 **2024** *Distance education workshop*. Research Institute for Development (IRD), Havana, FSPI-IES Project of the French Embassy, Competitor. 
 
+**2024** *ICPC Caribbean Finals (Qualifier)*. University of Matanzas, Matanzas. Preuniversity Teams - Gold, Coach.
+
 ## Research
 
 **2020** *Educating with José Martí in the Cuban school*. Education Faculty, University of Matanzas. Collaborator
