@@ -75,6 +75,8 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 **2023-2024** Merchise Autrement. Developer. *[Business Solutions on Odoo, consulting and implementation](https://www.merchise.org/es)*. Implementation of functionalities. Corrections of non-conformities.
 
+**2024-2024** Desoft. Developer. *Matanzas*. Business Solutions on Odoo. Implementation of modules.
+
 
 ## Teaching
 
