@@ -317,5 +317,9 @@ English *Professional competence*
 
 [![Vasha54's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasha54)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://codeforces.com/profile/valido_1989">
+  <img src="https://codeforces-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&theme=tokyonight" alt="Codeforces Stats" width="400"/>
+</a>
+
 
 
