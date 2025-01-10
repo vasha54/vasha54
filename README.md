@@ -317,7 +317,7 @@ English *Professional competence*
 
 [![Vasha54's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasha54)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasha54&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasha54&langs_count=10)
 
 
 
