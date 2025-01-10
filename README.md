@@ -67,15 +67,15 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 **2021-2022** Combiomed Digital Medical Technology. Developer. *Havana*. Module developer Module-Machine (HMI) of the Software for the Control and Monitoring of the Artificial Fan for COVID-19 patients.
 
-**2021-2024** Vocational Preuniversity Institute of Exact Sciences *Carlos Marx* of Matanzas. Competitive programming coach. *Matanzas*
+**2021-2025** Vocational Preuniversity Institute of Exact Sciences *Carlos Marx* of Matanzas. Competitive programming coach. *Matanzas*
 
 **2023-2024** Network Department. Specialist B. *Matanzas, University of Matanzas*. Technical support of the Virtual Learning Environments of the University of Matanzas. Installation and deployment of websites using LMS Moodle.
 
 **2023-2024** INNOVAT. Developer. *Matanzas*. Design and implementation of the PSGAME+ application for Android mobile devices.
 
-**2023-2024** Merchise Autrement. Developer. *[Business Solutions on Odoo, consulting and implementation](https://www.merchise.org/es)*. Implementation of functionalities. Corrections of non-conformities.
+**2023-2025** Merchise Autrement. Developer. *[Business Solutions on Odoo, consulting and implementation](https://www.merchise.org/es)*. Implementation of functionalities. Corrections of non-conformities.
 
-**2024-2024** Desoft. Developer. *Matanzas*. Business Solutions on Odoo. Implementation of modules.
+**2024-2025** Desoft. Developer. *Matanzas*. Business Solutions on Odoo. Implementation of modules.
 
 
 ## Teaching
@@ -313,7 +313,10 @@ English *Professional competence*
 
 **2019** *Acknowledgment*. Outstanding Quality Worker, Matanzas, University of Matanzas.
 
-**2023** *Acknowledgment*. Competitive programming coach, Matanzas, Vocational Preuniversity Institute of Exact Sciences *Carlos Marx*. 
+**2023** *Acknowledgment*. Competitive programming coach, Matanzas, Vocational Preuniversity Institute of Exact Sciences *Carlos Marx*.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasha54&layout=compact)
+ 
 
 
 
