@@ -315,9 +315,7 @@ English *Professional competence*
 
 **2023** *Acknowledgment*. Competitive programming coach, Matanzas, Vocational Preuniversity Institute of Exact Sciences *Carlos Marx*.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasha54&layout=compact)
- 
-
+[![Vasha54's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasha54)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
