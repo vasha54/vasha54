@@ -328,4 +328,10 @@ English *Professional competence*
 ![Rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dvalido_1989&query=%24.result%5B0%5D.rating&label=Rating&color=blue&logo=codeforces)
 ![Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dvalido_1989&query=%24.result%5B0%5D.rank&label=Rank&color=green&logo=codeforces)
 
-![Codeforces Stats](https://cfviz.netlify.app/images/valido_1989.png)
+### CodeChef Stats
+
+![CodeChef Rating](https://img.shields.io/badge/dynamic/json?url=https://competitive-coding-api.herokuapp.com/api/codechef/bliss_silk_29&query=%24.rating&label=Rating&color=blue&logo=codechef)
+![CodeChef Stars](https://img.shields.io/badge/dynamic/json?url=https://competitive-coding-api.herokuapp.com/api/codechef/bliss_silk_29&query=%24.stars&label=Stars&color=green&logo=codechef)
+![Solved Problems](https://img.shields.io/badge/dynamic/json?url=https://competitive-coding-api.herokuapp.com/api/codechef/bliss_silk_29&query=%24.fully_solved.count&label=Solved%20Problems&color=orange&logo=codechef)
+
+![CodeChef Stats](https://codechef-card.herokuapp.com/?username=bliss_silk_29)
