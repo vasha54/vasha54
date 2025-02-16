@@ -329,5 +329,5 @@ English *Professional competence*
 ![Codeforces Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces-readme-stats.vercel.app%2Fapi%2F%3Fusername%3Dvalido_1989&query=%24.rank&label=Rank&color=green&logo=codeforces)
 ![Solved Problems](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces-readme-stats.vercel.app%2Fapi%2F%3Fusername%3Dvalido_1989&query=%24.solved&label=Solved%20Problems&color=orange&logo=codeforces)
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=valido_1989)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=VALIDO_1989)
 
