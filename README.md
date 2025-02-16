@@ -327,3 +327,4 @@ English *Professional competence*
 
 ![Rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dvalido_1989&query=%24.result%5B0%5D.rating&label=Rating&color=blue&logo=codeforces)
 ![Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dvalido_1989&query=%24.result%5B0%5D.rank&label=Rank&color=green&logo=codeforces)
+![Codeforces Stats](https://cfviz.netlify.app/images/valido_1989.png)
