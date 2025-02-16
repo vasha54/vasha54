@@ -321,5 +321,13 @@ English *Professional competence*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasha54&langs_count=10)
 
+![LeetCode stats](https://leetcard.jacoblin.cool/dnielpy)
 
+### Codeforces Stats
+
+![Codeforces Rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces-readme-stats.vercel.app%2Fapi%2F%3Fusername%3Dvalido_1989&query=%24.rating&label=Rating&color=blue&logo=codeforces)
+![Codeforces Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces-readme-stats.vercel.app%2Fapi%2F%3Fusername%3Dvalido_1989&query=%24.rank&label=Rank&color=green&logo=codeforces)
+![Solved Problems](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces-readme-stats.vercel.app%2Fapi%2F%3Fusername%3Dvalido_1989&query=%24.solved&label=Solved%20Problems&color=orange&logo=codeforces)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=valido_1989)
 
