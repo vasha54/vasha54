@@ -321,7 +321,7 @@ English *Professional competence*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasha54&langs_count=10)
 
-![LeetCode stats](https://leetcard.jacoblin.cool/Y8YXbXDg9d)
+![LeetCode stats](https://leetcard.jacoblin.cool/vasha54)
 
 ### Codeforces Stats
 
