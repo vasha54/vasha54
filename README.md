@@ -325,8 +325,5 @@ English *Professional competence*
 
 ### Codeforces Stats
 
-![Codeforces Rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces-readme-stats.vercel.app%2Fapi%2F%3Fusername%3DTourist&query=%24.rating&label=Rating&color=blue&logo=codeforces)
-![Codeforces Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces-readme-stats.vercel.app%2Fapi%2F%3Fusername%3DTourist&query=%24.rank&label=Rank&color=green&logo=codeforces)
-![Solved Problems](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces-readme-stats.vercel.app%2Fapi%2F%3Fusername%3DTourist&query=%24.solved&label=Solved%20Problems&color=orange&logo=codeforces)
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=Tourist)
+![Rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dvalido_1989&query=%24.result%5B0%5D.rating&label=Rating&color=blue&logo=codeforces)
+![Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dvalido_1989&query=%24.result%5B0%5D.rank&label=Rank&color=green&logo=codeforces)
