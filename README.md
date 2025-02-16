@@ -122,6 +122,8 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 **2023** *Notification plugin of request to create courses in the Moodle to the category managers*. Ana Mónica Rodríguez García. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering
 
+**2025** *Module for the registration of personal devices in the Integrated System Environment of the University of Matanzas*. Manuel Alberto Gorrín Reyes. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering
+
 ## Thesis opponent
 
 **2017** *Software for the management of internal client information in hotel systems from the endonarcoeting perspective*. Fabianne Díaz Santiago. University of Matanzas, Matanzas, Diploma work to opt for the title of Computer Engineering
