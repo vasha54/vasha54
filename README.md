@@ -159,6 +159,10 @@ English *Professional competence*
 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/moodle.svg" title="Moodle"  width="50" height="50"> *Installation and deployment on servers with Ubuntu and Debian with Mariadb database manager. Personalization, configuration and adinstration of the platform. Administration, management and assembly of courses on the platform. Development of extensions of the report, themes and block types. Development of applications that consume the API that provides the platform. Examples of deployments performed: [Eva Undergraduate](https://eva.umcc.cu/pregrado), [Eva Postgraduate](https://eva.umcc.cu/posgrado), [Eva MOOC](https://eva.umcc.cu/mooc)*
 
+#### ERP
+
+<img src="https://github.com/vasha54/vasha54/blob/main/img/odoo.svg" title="Odoo"  width="50" height="50"> *Development of basic addon structures in Odoo versions 12, 15, 16, and 17. Implementation of addons that consume external APIs and convert data into Odoo models. Management and creation of scheduled tasks within the Odoo environment. Design of visual interfaces for forms and tree views.*
+
 #### Database manager
 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/postgresql.svg" title="Postgresql"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/mariadb_black.svg" title="MariaDB"  width="50" height="50">
