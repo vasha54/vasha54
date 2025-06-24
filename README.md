@@ -310,6 +310,40 @@ English *Professional competence*
 
 **2023** *Acknowledgment*. Competitive programming coach, Matanzas, Vocational Preuniversity Institute of Exact Sciences *Carlos Marx*. 
 
+## Competitive Programming Coach
 
+#### IPVCE Regional Cup
+
+Two bronze medals, an equal number of silver medals, and six gold medals.
+
+#### UCI Programming Cup for Pre-University}
+
+Two mentions, six bronze medals, 12 silver medals, and five gold medals.
+
+#### LiveCode Cup
+
+One silver medal.
+
+#### Cuban Computer Science Olympiad}
+
+16 bronze medals, six silver medals, and six gold medals. Fourteen students 
+were promoted to the national pre-selection. 12 students were awarded a 
+university degree directly based on competition results.
+
+#### Ibero-American Olympiad in Informatics}
+
+Three mentions, one bronze, and one silver. 6 students participated in this event.
+
+#### International Olympiad in Informatics}
+
+One student participated in this event.
+
+#### ICPC Qualifier}
+
+Three bronze medals and one gold medal in the pre-university team division.
+
+#### ICPC Caribbean Regional Final}
+
+One team qualified for this stage of the event.
 
 
