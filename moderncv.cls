@@ -499,6 +499,9 @@
 % usage: \subsection{title}
 \NewDocumentCommand{\subsection}{sm}{}
 
+% makes a resume subsubsection
+% usage: \subsubsection{title}
+\NewDocumentCommand{\subsubsection}{sm}{}
 % makes a resume line with a header and a corresponding text
 % usage: \cvitem[spacing]{header}{text}
 \newcommand*{\cvitem}[3][.25em]{}
