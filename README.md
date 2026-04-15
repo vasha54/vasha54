@@ -62,7 +62,7 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 **2021-2022** Combiomed Digital Medical Technology. Developer. *Havana*. Module developer Module-Machine (HMI) of the Software for the Control and Monitoring of the Artificial Fan for COVID-19 patients.
 
-**2021-2024** Vocational Preuniversity Institute of Exact Sciences *Carlos Marx* of Matanzas. Competitive programming coach. *Matanzas*
+**2021-2026** Vocational Preuniversity Institute of Exact Sciences *Carlos Marx* of Matanzas. Competitive programming coach. *Matanzas*
 
 **2023-2024** Network Department. Specialist B. *Matanzas, University of Matanzas*. Technical support of the Virtual Learning Environments of the University of Matanzas. Installation and deployment of websites using LMS Moodle.
 
@@ -70,6 +70,9 @@ The work was based on the development of a mechanism for incorporating SVG graph
 
 **2023-2024** Merchise Autrement. Developer. *[Business Solutions on Odoo, consulting and implementation](https://www.merchise.org/es)*. Implementation of functionalities. Corrections of non-conformities.
 
+**2024-2026** Desoft. Developer. Business Solutions on Odoo. Implementation of addons.
+
+**2025-2025** Idoo Group. Developer. *[Mobile app development | Mobile app design Tijuana | App development Tijuana | Web design Tijuana - IdooGroup](https://www.idoogroup.com/)*. Implementation of functionalities. Correction of non-conformities. Implementation of add-ons and systems
 
 ## Teaching
 
@@ -161,7 +164,7 @@ English *Professional competence*
 
 #### ERP
 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/odoo.svg" title="Odoo"  width="50" height="50"> *Development of basic addon structures in Odoo versions 12, 15, 16, and 17. Implementation of addons that consume external APIs and convert data into Odoo models. Management and creation of scheduled tasks within the Odoo environment. Design of visual interfaces for forms and tree views.*
+<img src="https://github.com/vasha54/vasha54/blob/main/img/odoo.svg" title="Odoo"  width="50" height="50"> *Development of basic addon structures in Odoo versions 12, 15, 16, 17 and 18. Implementation of addons that consume external APIs and convert data into Odoo models. Management and creation of scheduled tasks within the Odoo environment. Design of visual interfaces for forms and tree views.*
 
 #### Database manager
 
@@ -316,9 +319,14 @@ English *Professional competence*
 
 Two bronze medals, an equal number of silver medals, and six gold medals.
 
+* [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
+
+
 #### UCI Programming Cup for Pre-University}
 
 Two mentions, six bronze medals, 12 silver medals, and five gold medals.
+
+* [César Raúl Luis González](https://github.com/CesarRaulGH)
 
 #### LiveCode Cup
 
@@ -330,20 +338,33 @@ One silver medal.
 were promoted to the national pre-selection. 12 students were awarded a 
 university degree directly based on competition results.
 
-#### Ibero-American Olympiad in Informatics}
+* [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
+* [César Raúl Luis González](https://github.com/CesarRaulGH)
+
+#### Ibero-American Olympiad in Informatics
 
 Three mentions, one bronze, and one silver. 6 students participated in this event.
 
-#### International Olympiad in Informatics}
+* [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
+* [César Raúl Luis González](https://github.com/CesarRaulGH)
 
-One student participated in this event.
+#### International Olympiad in Informatics
 
-#### ICPC Qualifier}
+One student participated in this event
+
+* [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
+
+#### ICPC Qualifier
 
 Three bronze medals and one gold medal in the pre-university team division.
+
+* [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
+* [César Raúl Luis González](https://github.com/CesarRaulGH)
 
 #### ICPC Caribbean Regional Final}
 
 One team qualified for this stage of the event.
+
+* [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
 
 
