@@ -194,7 +194,7 @@ English *Professional competence*
 
 #### Virtualization
 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/docker.svg" title="Docker"  width="100" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/docker.svg" title="Docker"  width="100" height="50"> *I have built multi‑container environments using Docker Compose (v3.8) for complex stacks including Odoo 18, PostgreSQL 17, SQL Server 2022, and pgAdmin4. I write custom Dockerfiles that extend official images, adding system dependencies (Python, ODBC, compilers), optimizing layers, and applying security best practices (non‑root user, permission and directory management). I configure custom bridge networks for isolated service communication, named volumes for data persistence, and bind mounts for source code, configuration files, initialization scripts, and backups. I manage environment variables, restart policies, and startup ordering. This enables me to quickly spin up portable, realistic development, integration, and data migration environments.*
 
 #### Software development methodology
 
