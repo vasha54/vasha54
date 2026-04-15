@@ -164,7 +164,7 @@ English *Professional competence*
 
 #### ERP
 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/odoo.svg" title="Odoo"  width="50" height="50"> *Development of basic addon structures in Odoo versions 12, 15, 16, 17 and 18. Implementation of addons that consume external APIs and convert data into Odoo models. Management and creation of scheduled tasks within the Odoo environment. Design of visual interfaces for forms and tree views.*
+<img src="https://github.com/vasha54/vasha54/blob/main/img/odoo.svg" title="Odoo"  width="50" height="50"> *Proven expertise in the full lifecycle of Odoo development, from deployment across versions 12 through 18 to advanced customization and integration. Skilled in modifying existing models and addons as well as building custom modules from scratch. Adept at generating complex PDF and Excel reports, consuming external APIs for seamless data migration, and configuring automated scheduled tasks. Strong front-end capability includes the design of both standard views and complex custom interfaces with integrated graphical components. Experience includes the live deployment of tailored solutions for production use cases at [Serena Care](https://serenacare.idooprod.com/odoo) and [Das-Cortez](https://das-cortez.idooprod.com/) .*
 
 #### Database manager
 
@@ -320,6 +320,7 @@ English *Professional competence*
 Two bronze medals, an equal number of silver medals, and six gold medals.
 
 * [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
+* [Zaniel García Orihuela](https://github.com/zagaro08)
 
 
 #### UCI Programming Cup for Pre-University}
@@ -327,6 +328,7 @@ Two bronze medals, an equal number of silver medals, and six gold medals.
 Two mentions, six bronze medals, 12 silver medals, and five gold medals.
 
 * [César Raúl Luis González](https://github.com/CesarRaulGH)
+* [Zaniel García Orihuela](https://github.com/zagaro08)
 
 #### LiveCode Cup
 
@@ -340,13 +342,15 @@ university degree directly based on competition results.
 
 * [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
 * [César Raúl Luis González](https://github.com/CesarRaulGH)
+* [Zaniel García Orihuela](https://github.com/zagaro08)
 
 #### Ibero-American Olympiad in Informatics
 
-Three mentions, one bronze, and one silver. 6 students participated in this event.
+Three mentions, one bronze, and three silver. 6 students participated in this event.
 
 * [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
 * [César Raúl Luis González](https://github.com/CesarRaulGH)
+* [Zaniel García Orihuela](https://github.com/zagaro08)
 
 #### International Olympiad in Informatics
 
@@ -360,11 +364,13 @@ Three bronze medals and one gold medal in the pre-university team division.
 
 * [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
 * [César Raúl Luis González](https://github.com/CesarRaulGH)
+* [Zaniel García Orihuela](https://github.com/zagaro08)
 
 #### ICPC Caribbean Regional Final}
 
 One team qualified for this stage of the event.
 
 * [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
+* [Zaniel García Orihuela](https://github.com/zagaro08)
 
 
