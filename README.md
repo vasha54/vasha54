@@ -192,9 +192,16 @@ English *Professional competence*
 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/git.svg" title="Git"  width="50" height="50">
 
+#### Virtualization
+
+<img src="https://github.com/vasha54/vasha54/blob/main/img/docker.svg" title="Docker"  width="100" height="50">
+
 #### Software development methodology
 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/xp.png" title="Extreme Programming (XP)"  width="100" height="50">
+
+
+
 
 ## Publications
 
