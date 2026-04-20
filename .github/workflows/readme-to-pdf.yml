@@ -35,11 +35,12 @@ jobs:
         run: |
           md-to-pdf README_local.md \
             --launch-options '{"args":["--no-sandbox"]}' \
-            --basedir .
+            --basedir . \
+            --out CV_Luis_Andres_Valido_Fajardo.pdf
             
 
       - name: Subir PDF como artefacto
         uses: actions/upload-artifact@v4
         with:
-          name: README_local.pdf
-          path: README_local.pdf
+          name: CV_Luis_Andres_Valido_Fajardo.pdf
+          path: CV_Luis_Andres_Valido_Fajardo.pdf
