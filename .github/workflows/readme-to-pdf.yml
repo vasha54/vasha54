@@ -14,6 +14,10 @@ jobs:
       - name: Obtener código
         uses: actions/checkout@v4
 
+      - name: Reemplazar rutas locales por URLs de GitHub
+        run: |
+          sed -i "s|](img/|](https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/img/|g" README.md
+
       - name: Instalar Node.js
         uses: actions/setup-node@v4
         with:
@@ -23,7 +27,7 @@ jobs:
         run: npm install -g md-to-pdf
 
       - name: Convertir README a PDF
-        run: md-to-pdf README.md --launch-options '{"args":["--no-sandbox"]}' --basedir .
+        run: md-to-pdf README.md --launch-options '{"args":["--no-sandbox"]}' --basedir . --debug
 
       - name: Subir PDF como artefacto
         uses: actions/upload-artifact@v4
