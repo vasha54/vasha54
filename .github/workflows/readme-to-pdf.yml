@@ -27,7 +27,7 @@ jobs:
         run: npm install -g md-to-pdf
 
       - name: Convertir README a PDF
-        run: md-to-pdf README.md --launch-options '{"args":["--no-sandbox"]}' --basedir . --debug
+        run: md-to-pdf README.md --launch-options '{"args":["--no-sandbox"]}' --basedir .
 
       - name: Subir PDF como artefacto
         uses: actions/upload-artifact@v4
