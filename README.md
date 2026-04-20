@@ -187,7 +187,7 @@ English *Professional competence*
 
 #### Text processor
 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/latex.svg" title="Latex"  width="50" height="50">
+<img src="https://github.com/vasha54/vasha54/blob/main/img/latex.svg" title="Latex"  width="50" height="50">*Advanced LaTeX skills for creating technical documentation and study guides. Experienced in developing custom classes (.cls) and style files (.sty) to standardize formats. Proficient in specialized packages for acronym management (acronym), complex tables (arydshln), footnotes (bigfoot), counters (chngcntr), multi-language dates (datetime), and watermarks (draftcopy). Solid command of BibTeX for bibliographic management in academic documents. Capable of automating build flows with scripts, ensuring high-quality PDF generation.*
 
 #### Version control & CI/CD
 
