@@ -34,11 +34,12 @@ jobs:
       - name: Convertir README_local.md a PDF
         run: |
           md-to-pdf README_local.md \
-            --output CV_Luis_Andres_Valido_Fajardo.pdf \
             --launch-options '{"args":["--no-sandbox"]}' \
             --basedir .
-            
 
+      - name: Renombrar PDF
+        run: mv README_local.pdf CV_Luis_Andres_Valido_Fajardo.pdf
+            
       - name: Subir PDF como artefacto
         uses: actions/upload-artifact@v4
         with:
