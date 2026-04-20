@@ -41,5 +41,5 @@ jobs:
       - name: Subir PDF como artefacto
         uses: actions/upload-artifact@v4
         with:
-          name: CV_Luis_Andres_Valido_Fajardo.pdf
-          path: CV_Luis_Andres_Valido_Fajardo.pdf
+          name: README_local.pdf
+          path: README_local.pdf
