@@ -23,10 +23,10 @@ jobs:
         run: npm install -g md-to-pdf
 
       - name: Convertir README a PDF
-        run: md-to-pdf README.md --launch-options '{"args":["--no-sandbox"]}' --basedir . --out CV_Luis_Andres_Valido_Fajardo.pdf
+        run: md-to-pdf README.md --launch-options '{"args":["--no-sandbox"]}' --basedir .
 
       - name: Subir PDF como artefacto
         uses: actions/upload-artifact@v4
         with:
-          name: CV_Luis_Andres_Valido_Fajardo.pdf
-          path: CV_Luis_Andres_Valido_Fajardo.pdf
+          name: README.pdf
+          path: README.pdf
