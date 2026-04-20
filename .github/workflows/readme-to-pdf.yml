@@ -1,39 +1,29 @@
-name: Generar PDF del README
+name: Generate PDF with md-to-pdf
 
-# Se ejecuta cuando hay push en main/master y se modifica README.md
-# También se puede ejecutar manualmente desde la pestaña Actions
 on:
   push:
-    branches: [ "main", "master" ]
     paths:
       - 'README.md'
   workflow_dispatch:
 
 jobs:
-  crear-pdf:
+  build:
     runs-on: ubuntu-latest
     steps:
-      # 1. Obtener el código del repositorio
-      - name: Obtener código
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      # 2. Instalar Node.js (necesario para la herramienta md-to-pdf)
-      - name: Instalar Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
-      # 3. Instalar la herramienta que convierte Markdown a PDF
-      - name: Instalar md-to-pdf
+      - name: Install md-to-pdf
         run: npm install -g md-to-pdf
 
-      # 4. Convertir README.md a PDF
-      - name: Convertir README a PDF
-        run: md-to-pdf README.md --no-sandbox
+      - name: Convert README to PDF
+        run: md-to-pdf README.md --launch-options '{"args":["--no-sandbox"]}'
 
-      # 5. Subir el PDF como artefacto (podrás descargarlo desde Actions)
-      - name: Subir PDF como artefacto
-        uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v4
         with:
           name: README.pdf
           path: README.pdf
