@@ -5,6 +5,7 @@ on:
     branches: [ "main", "master" ]
     paths:
       - 'README.md'
+      - 'img/**'           # También se ejecuta si cambian las imágenes
   workflow_dispatch:
 
 jobs:
@@ -14,9 +15,13 @@ jobs:
       - name: Obtener código
         uses: actions/checkout@v4
 
-      - name: Reemplazar rutas locales por URLs de GitHub
+      - name: Generar README_local.md con rutas locales
         run: |
-          sed -i "s|](img/|](https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/img/|g" README.md
+          # Reemplaza las URLs de GitHub por rutas relativas locales
+          # Ejemplo: https://github.com/vasha54/vasha54/blob/main/img/foto.png -> img/foto.png
+          sed -E 's|https://github\.com/vasha54/vasha54/blob/main/([^)"[:space:]]+)|\1|g' README.md > README_local.md
+          echo "Contenido de README_local.md (primeras 20 líneas):"
+          head -n 20 README_local.md
 
       - name: Instalar Node.js
         uses: actions/setup-node@v4
@@ -26,11 +31,15 @@ jobs:
       - name: Instalar md-to-pdf
         run: npm install -g md-to-pdf
 
-      - name: Convertir README a PDF
-        run: md-to-pdf README.md --launch-options '{"args":["--no-sandbox"]}' --basedir .
+      - name: Convertir README_local.md a PDF
+        run: |
+          md-to-pdf README_local.md \
+            --launch-options '{"args":["--no-sandbox"]}' \
+            --basedir .
+            
 
       - name: Subir PDF como artefacto
         uses: actions/upload-artifact@v4
         with:
-          name: README.pdf
-          path: README.pdf
+          name: CV_Luis_Andres_Valido_Fajardo.pdf
+          path: CV_Luis_Andres_Valido_Fajardo.pdf
