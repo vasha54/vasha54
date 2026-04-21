@@ -179,7 +179,9 @@ English _Professional competence_
 
 #### 2D graphic design
 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/inkscape.svg" title="Inkscape"  width="50" height="50"> <img src="https://github.com/vasha54/vasha54/blob/main/img/gimp.svg" title="GIMP"  width="50" height="50">
+ <img src="https://github.com/vasha54/vasha54/blob/main/img/gimp.svg" title="GIMP"  width="50" height="50">
+
+ <img src="https://github.com/vasha54/vasha54/blob/main/img/inkscape.svg" title="Inkscape"  width="50" height="50">_Proficient in Inkscape as a primary tool for vector design and the creation of graphic assets for digital projects. Skilled in conceptualizing and executing complete visual systems, from interface design (dashboards) to the production of high-quality, custom iconography in SVG format. Documented practical experience in the development of projects like "PROVEA" and "Serena Care" demonstrating competence in optimizing graphics for web and application development, color management, and exporting assets in multiple formats. Ability to create detailed illustrations and clean visual compositions while maintaining the aesthetic and functional coherence of the final product. Results-oriented approach and mastery of the open-source workflow, enabling efficient integration with other development teams and tools._
 
 #### CASE Tool
 
