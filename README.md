@@ -14,6 +14,45 @@
 
 ## Education Online
 
+### Sololearn
+
+- **2020** – HTML – [Certificate 1014-20521103](https://www.sololearn.com/Certificate/1014-20521103/pdf/)
+- **2020** – C – [Certificate 1089-20521103](https://www.sololearn.com/Certificate/1089-20521103/pdf/)
+- **2020** – CSS – [Certificate 1023-20521103](https://www.sololearn.com/Certificate/1023-20521103/pdf/)
+- **2020** – C++ – [Certificate 1051-20521103](https://www.sololearn.com/Certificate/1051-20521103/pdf/)
+- **2020** – SQL – [Certificate 1060-20521103](https://www.sololearn.com/Certificate/1060-20521103/pdf/)
+- **2020** – Java – [Certificate 1068-20521103](https://www.sololearn.com/Certificate/1068-20521103/pdf/)
+- **2020** – Ruby – [Certificate 1081-20521103](https://www.sololearn.com/Certificate/1081-20521103/pdf/)
+- **2020** – PHP – [Certificate 1059-20521103](https://www.sololearn.com/Certificate/1059-20521103/pdf/)
+- **2020** – jQuery – [Certificate 1082-20521103](https://www.sololearn.com/Certificate/1082-20521103/pdf/)
+- **2020** – JavaScript – [Certificate 1024-20521103](https://www.sololearn.com/Certificate/1024-20521103/pdf/)
+- **2020** – C# – [Certificate 1080-20521103](https://www.sololearn.com/Certificate/1080-20521103/pdf/)
+- **2020** – Swift 4 – [Certificate 1075-20521103](https://www.sololearn.com/Certificate/1075-20521103/pdf/)
+- **2020** – Python 3 – [Certificate 1073-20521103](https://www.sololearn.com/Certificate/1073-20521103/pdf/)
+- **2020** – React + Redux – [Certificate 1097-20521103](https://www.sololearn.com/Certificate/1097-20521103/pdf/)
+- **2020** – Angular + NestJS – [Certificate 1092-20521103](https://www.sololearn.com/Certificate/1092-20521103/pdf/)
+- **2020** – Data Science with Python – [Certificate 1093-20521103](https://www.sololearn.com/Certificate/1093-20521103/pdf/)
+- **2021** – Machine Learning – [Certificate 1094-20521103](https://www.sololearn.com/Certificate/1094-20521103/pdf/)
+- **2021** – Python for Beginners – [Certificate 1157-20521103](https://www.sololearn.com/Certificate/1157-20521103/pdf/)
+- **2021** – Intermediate Python – [Certificate 1158-20521103](https://www.sololearn.com/Certificate/1158-20521103/pdf/)
+- **2021** – Python Data Structures – [Certificate 1159-20521103](https://www.sololearn.com/Certificate/1159-20521103/pdf/)
+- **2021** – Responsive Web Design – [Certificate 1162-20521103](https://www.sololearn.com/Certificate/1162-20521103/pdf/)
+- **2021** – Kotlin – [Certificate 1160-20521103](https://www.sololearn.com/Certificate/1160-20521103/pdf/)
+- **2021** – Go – [Certificate 1164-20521103](https://www.sololearn.com/certificates/course/en/20521103/1164/landscape/png)
+- **2021** – Python for Data Science – [Certificate 1161-20521103](https://www.sololearn.com/certificates/course/en/20521103/1161/landscape/png)
+- **2021** – Coding for Marketers – [Certificate 1165-20521103](https://www.sololearn.com/Certificate/1165-20521103/pdf/)
+- **2021** – R – [Certificate 1147-20521103](https://www.sololearn.com/certificates/course/en/20521103/1147/landscape/png)
+- **2021** – Python for Finance – [Certificate 1139-20521103](https://www.sololearn.com/Certificate/1139-20521103/pdf/)
+- **2021** – Game Development with JS – [Certificate 1140-20521103](https://www.sololearn.com/Certificate/1140-20521103/pdf/)
+- **2022** – Web Development Fundamentals – [Certificate 1141-20521103](https://www.sololearn.com/Certificate/1141-20521103/pdf/)
+- **2023** – Introduction to Python – [Certificate CC-HDLKFIGF](https://api2.sololearn.com/v2/certificates/CC-HDLKFIGF/image/png)
+- **2023** – Python Developer – [Certificate CC-GKCL73B9](https://api2.sololearn.com/v2/certificates/CC-GKCL73B9/image/png)
+- **2024** – Introduction to C# – [Certificate CC-1NMULHIW](https://api2.sololearn.com/v2/certificates/CC-1NMULHIW/image/png)
+
+### Other Courses
+
+- **2021** – *The distance education model of Cuban higher education in the context of the University of Matanzas* – University of Matanzas (Virtual postgraduate course, 1 credit) – [Course link](http://evead.umcc.cu/course/view.php?id=105)
+<!--
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_html.png" title="Course Html. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c.png" title="Course C. Sololearn platform"  width="46" height="30">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_css.png" title="Course CSS. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c_plusplus.png" title="Course C++. Sololearn platform"  width="46" height="30">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_sql.png" title="Course SQL. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_machine_learning.png" title="Course Machine Learning. Sololearn platform"  width="46" height="30">
@@ -30,7 +69,7 @@
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_science.png" title="Course Data Science with Python. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_game_development_js.png" title="Course Game Development with JS. Sololearn platform"  width="46" height="30">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_web_development_fundamentals.png" title="Course Web Development Fundamentals course. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_python.png" title="Course Introduction to Python. Sololearn platform"  width="46" height="30">
 <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_developer.png" title="Course Python Developer. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_csharp.png" title="Course Introduction to C#. Sololearn platform"  width="46" height="30">
-
+-->
 ## Thesis
 
 **Title:** Mechanism for incorporating SVG graphics into the SCADA GALBA HMI.
