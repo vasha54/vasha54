@@ -52,7 +52,6 @@
 - **2024** – Introduction to C# – [Certificate CC-1NMULHIW](https://api2.sololearn.com/v2/certificates/CC-1NMULHIW/image/png)
 - **2024** – C# Intermediate – [Certificate CC-REDJIOXL](https://api2.sololearn.com/v2/certificates/CC-REDJIOXL/image/jpg?t=639129271994486500)
 - **2024** – Intermediate Python – [Certificate CT-9764VW49](https://api2.sololearn.com/v2/certificates/CT-9764VW49/image/jpg?t=639129271991475330)
-- **2024** – Introduction to C – [Certificate CC-FXHKK1VT](https://api2.sololearn.com/v2/certificates/CC-FXHKK1VT/image/jpg?t=639129271996301240)
 - **2024** – Introduction to C++ – [Certificate CC-3ICHTP0V](https://api2.sololearn.com/v2/certificates/CC-3ICHTP0V/image/jpg?t=639129271994735890)
 - **2024** – Introduction to JavaScript – [Certificate CC-JEGJKSTF](https://api2.sololearn.com/v2/certificates/CC-JEGJKSTF/image/jpg?t=639129271994813140)
 - **2024** – Introduction to HTML – [Certificate CC-FCMLQ4ED](https://api2.sololearn.com/v2/certificates/CC-FCMLQ4ED/image/jpg?t=639129271995538320)
@@ -66,6 +65,7 @@
 - **2025** – SEO with AI – [Certificate CC-VQAG3JNS](https://api2.sololearn.com/v2/certificates/CC-VQAG3JNS/image/jpg?t=639129271996608290)
 - **2025** – Research with AI – [Certificate CC-8FE3EHNK](https://api2.sololearn.com/v2/certificates/CC-8FE3EHNK/image/jpg?t=639129271996608320)
 - **2026** – SQL Intermediate – [Certificate CC-TCQYRZXA](https://api2.sololearn.com/v2/certificates/CC-TCQYRZXA/image/png?t=639132746090990769)
+- **2026** – Java Intermediate – [Certificate CC-SBOQZEJD](https://api2.sololearn.com/v2/certificates/CC-SBOQZEJD/image/jpg?t=639135298648342200)
 
 ### Other Courses
 
