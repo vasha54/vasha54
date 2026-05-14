@@ -1,11 +1,12 @@
-name: Generar PDF del README
+name: Generar PDF del README y de los archivos en cv
 
 on:
   push:
     branches: [ "main", "master" ]
     paths:
       - 'README.md'
-      - 'img/**'           # También se ejecuta si cambian las imágenes
+      - 'img/**'
+      - 'cv/**'
   workflow_dispatch:
 
 jobs:
@@ -17,8 +18,6 @@ jobs:
 
       - name: Generar README_local.md con rutas locales
         run: |
-          # Reemplaza las URLs de GitHub por rutas relativas locales
-          # Ejemplo: https://github.com/vasha54/vasha54/blob/main/img/foto.png -> img/foto.png
           sed -E 's|https://github\.com/vasha54/vasha54/blob/main/([^)"[:space:]]+)|\1|g' README.md > README_local.md
           echo "Contenido de README_local.md (primeras 20 líneas):"
           head -n 20 README_local.md
@@ -37,11 +36,28 @@ jobs:
             --launch-options '{"args":["--no-sandbox"]}' \
             --basedir .
 
-      - name: Renombrar PDF
+      - name: Renombrar PDF del README
         run: mv README_local.pdf CV_Luis_Andres_Valido_Fajardo.pdf
-            
-      - name: Subir PDF como artefacto
+
+      - name: Convertir todos los archivos .md en cv/ a PDF
+        run: |
+          for f in cv/*.md; do
+            if [ -f "$f" ]; then
+              echo "Convirtiendo $f a PDF..."
+              md-to-pdf "$f" \
+                --launch-options '{"args":["--no-sandbox"]}' \
+                --basedir .
+            fi
+          done
+
+      - name: Subir PDF del CV (README) como artefacto
         uses: actions/upload-artifact@v4
         with:
           name: CV_Luis_Andres_Valido_Fajardo.pdf
           path: CV_Luis_Andres_Valido_Fajardo.pdf
+
+      - name: Subir todos los PDFs de cv/ como artefacto
+        uses: actions/upload-artifact@v4
+        with:
+          name: cv_pdfs
+          path: cv/*.pdf
