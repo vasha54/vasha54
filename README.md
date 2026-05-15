@@ -285,6 +285,45 @@ _Additionally, I have solid knowledge of Java applied to online judge environmen
 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/xp.png" title="Extreme Programming (XP)"  width="100" height="50"> -->
 
+
+## Highlighted Projects
+
+### Economic Management System "Vigía" — `vigia1.0`
+- Complete system for the economic management of a creative group, built with **Django** and **Python**.
+- Modules for banking operations control, income/expense management, and financial closing.
+- User interface developed with **JavaScript**, HTML, and CSS.
+
+### Management System "APM" — `apm`
+- Management system with MVC architecture in **Python**.
+- Mathematical library (`libmath`) for calculations and data processing.
+- 72 commits reflecting iterative and organized development.
+
+### API for Augmented Reality System — `sran-0tsw`
+- REST API (`apiv1`) for managing tourism resources.
+- Integration of SQLite database and user access control.
+- **JavaScript** frontend and **Python** backend services.
+
+### Plugin for Moodle Quality Evaluation — `evaluationquality`
+- Report plugin to assess course quality according to specialist criteria.
+- Complex SQL queries combining multiple Moodle core tables.
+- Integration with Moodle's native course and category navigation.
+
+### Enterprise Information System (EIS) — `EIS`
+- Designed and developed a modular enterprise information system from scratch using **C#** and **.NET**.
+- Implemented a layered architecture separating core components (`EIS.Core.Components`), business logic services (`EIS.Core.Services`), and unit tests (`EIS.Core.ServicesTests`).
+- Developed a web front-end (`EIS.Web`) to provide a user interface for the system.
+- Managed database schema and migrations for both **PostgreSQL** (`PostGresSqlMigrations`) and **SQLite** (`SqliteMigrations`), demonstrating flexibility in data persistence.
+- Configured **LDAP** integration (`ldap.config`) for enterprise-grade user authentication and directory services.
+- Organized the codebase into independent modules (`Modules`), enhancing maintainability and demonstrating skills in building scalable software.
+
+### Odoo 18 Customization for Serena Care — `serena_care_odoo_18`
+- Developed a custom **Odoo 18** solution for a client in the healthcare sector, creating tailored addons to meet specific business requirements.
+- Managed the full configuration of the Odoo instance, including database setup (`odoo.conf`) and service orchestration, ensuring a smooth deployment.
+- Created a containerized development environment using **Docker**, demonstrating skills in modern DevOps practices and environment reproducibility.
+- Authored comprehensive technical documentation in Spanish, guiding users through the installation, configuration, and troubleshooting of the custom modules
+
+
+
 ## Publications
 
 **2017** _Mechanism for the automation of backup copies of the Virtual Learning Environment of the University of Matanzas_. VIII International Scientific Convention of the University of Matanzas, V International Engineering Workshop, Matanzas. Published in citc.umcc.cu with the ISBN code: 978-959-16-3296-8
