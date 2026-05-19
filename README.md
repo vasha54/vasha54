@@ -66,6 +66,8 @@
 - **2025** – Research with AI – [Certificate CC-8FE3EHNK](https://api2.sololearn.com/v2/certificates/CC-8FE3EHNK/image/jpg?t=639129271996608320)
 - **2026** – SQL Intermediate – [Certificate CC-TCQYRZXA](https://api2.sololearn.com/v2/certificates/CC-TCQYRZXA/image/png?t=639132746090990769)
 - **2026** – Java Intermediate – [Certificate CC-SBOQZEJD](https://api2.sololearn.com/v2/certificates/CC-SBOQZEJD/image/jpg?t=639135298648342200)
+- **2026** – JavaScript Intermediate – [Certificate CC-F2DMBTRX](https://api2.sololearn.com/v2/certificates/CC-F2DMBTRX/image/jpg?t=639147540540596970)
+
 
 ### Other Courses
 
