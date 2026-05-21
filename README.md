@@ -67,6 +67,7 @@
 - **2026** – SQL Intermediate – [Certificate CC-TCQYRZXA](https://api2.sololearn.com/v2/certificates/CC-TCQYRZXA/image/png?t=639132746090990769)
 - **2026** – Java Intermediate – [Certificate CC-SBOQZEJD](https://api2.sololearn.com/v2/certificates/CC-SBOQZEJD/image/jpg?t=639135298648342200)
 - **2026** – JavaScript Intermediate – [Certificate CC-F2DMBTRX](https://api2.sololearn.com/v2/certificates/CC-F2DMBTRX/image/jpg?t=639147540540596970)
+- **2026** – Vibe Coding – [Certificate CC-EHJD3VET](https://api2.sololearn.com/v2/certificates/CC-EHJD3VET/image/png?t=639147872704172086)
 
 
 ### Other Courses
