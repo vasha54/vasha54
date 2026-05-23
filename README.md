@@ -68,29 +68,29 @@
 - **2026** – Java Intermediate – [Certificate CC-SBOQZEJD](https://api2.sololearn.com/v2/certificates/CC-SBOQZEJD/image/jpg?t=639135298648342200)
 - **2026** – JavaScript Intermediate – [Certificate CC-F2DMBTRX](https://api2.sololearn.com/v2/certificates/CC-F2DMBTRX/image/jpg?t=639147540540596970)
 - **2026** – Vibe Coding – [Certificate CC-EHJD3VET](https://api2.sololearn.com/v2/certificates/CC-EHJD3VET/image/png?t=639147872704172086)
-
+- **2026** – Agentic Workflows – [Certificate CC-2KTHP1CV](https://api2.sololearn.com/v2/certificates/CC-2KTHP1CV/image/png?t=639150101960042110)
 
 ### Other Courses
 
 - **2021** – _The distance education model of Cuban higher education in the context of the University of Matanzas_ – University of Matanzas (Virtual postgraduate course, 1 credit) – [Course link](http://evead.umcc.cu/course/view.php?id=105)
-    <!--
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_html.png" title="Course Html. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c.png" title="Course C. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_css.png" title="Course CSS. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c_plusplus.png" title="Course C++. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_sql.png" title="Course SQL. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_machine_learning.png" title="Course Machine Learning. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_java.png" title="Course Java. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_beginners.png" title="Course Python for Beginners. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_ruby.png" title="Course Ruby. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_intermediate_python.png" title="Curso Intermediate Python. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_php.png" title="Course PHP. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_structures.png" title="Course Python Data Structures. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_jquery.png" title="Course JQuery. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_responsive_web_design.png" title="Course Responsive Web Design. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_javascript.png" title="Course JavaScript. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_kotlin.png" title="Course Kotlin. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_csharp.png" title="Course C#. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_go.png" title="Course Go. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_switf_4.png" title="Course Swift 4. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_science.png" title="Course Python for Data Science. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_core.png" title="Course Python Core. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_coding_marketers.png" title="Course Coding for Marketers. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_react_redux.png" title="Course React + Redux. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_r.png" title="Course R. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_angular_nestjs.png" title="Course Angular + NestJS. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_finance.png" title="Course Python for Finance. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_science.png" title="Course Data Science with Python. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_game_development_js.png" title="Course Game Development with JS. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_web_development_fundamentals.png" title="Course Web Development Fundamentals course. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_python.png" title="Course Introduction to Python. Sololearn platform"  width="46" height="30">
-        <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_developer.png" title="Course Python Developer. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_csharp.png" title="Course Introduction to C#. Sololearn platform"  width="46" height="30">
-        -->
+      <!--
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_html.png" title="Course Html. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c.png" title="Course C. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_css.png" title="Course CSS. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c_plusplus.png" title="Course C++. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_sql.png" title="Course SQL. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_machine_learning.png" title="Course Machine Learning. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_java.png" title="Course Java. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_beginners.png" title="Course Python for Beginners. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_ruby.png" title="Course Ruby. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_intermediate_python.png" title="Curso Intermediate Python. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_php.png" title="Course PHP. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_structures.png" title="Course Python Data Structures. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_jquery.png" title="Course JQuery. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_responsive_web_design.png" title="Course Responsive Web Design. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_javascript.png" title="Course JavaScript. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_kotlin.png" title="Course Kotlin. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_csharp.png" title="Course C#. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_go.png" title="Course Go. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_switf_4.png" title="Course Swift 4. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_science.png" title="Course Python for Data Science. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_core.png" title="Course Python Core. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_coding_marketers.png" title="Course Coding for Marketers. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_react_redux.png" title="Course React + Redux. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_r.png" title="Course R. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_angular_nestjs.png" title="Course Angular + NestJS. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_finance.png" title="Course Python for Finance. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_data_science.png" title="Course Data Science with Python. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_game_development_js.png" title="Course Game Development with JS. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_web_development_fundamentals.png" title="Course Web Development Fundamentals course. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_python.png" title="Course Introduction to Python. Sololearn platform"  width="46" height="30">
+          <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_python_developer.png" title="Course Python Developer. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_introduction_csharp.png" title="Course Introduction to C#. Sololearn platform"  width="46" height="30">
+          -->
 
 ## Thesis
 
@@ -217,7 +217,7 @@ English _Professional competence_
 <img src="https://github.com/vasha54/vasha54/blob/main/img/java.png" title="Java"  width="50" height="50"> _I have solid Java proficiency across different environments. I build native Android applications using the Android SDK with Gradle, AndroidX libraries, and Material Design, and I incorporate unit and UI testing with JUnit and Espresso. I also develop desktop applications with Swing (JFrame, BoxLayout, JTable), applying a layered architecture (controller, model, view) and binary object serialization for data persistence. Regarding software architecture, I have a strong command of GoF design patterns: I implement the State pattern through state class hierarchies and a context class, the Observer pattern with subjects that notify multiple observers, and the DAO/Provider pattern with alternative data sources (JSON, files, or random generation) along with graceful degradation mechanisms. I maintain a clear separation of concerns by organizing code into specialized packages (controller, model, view, adapters, fragments)._
 _Additionally, I have solid knowledge of Java applied to online judge environments. I am experienced in structuring robust Main classes with custom input buffer handling (BufferedReader / FastReader) for high-efficiency data reading. I have a clear understanding of object-oriented paradigms and primitive type management to ensure performance in competitive scenarios._
 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/bash.png" title="Bash"  width="50" height="50"> _Extensive experience in developing automation scripts for Linux environments, ranging from Odoo module structure generation and the implementation of robust backup systems for platforms such as Moodle and MySQL/PostgreSQL databases —using tools like mysqldump and pg_dump— to the automation of document processing tasks. Proficient in file and directory manipulation (mkdir, touch, cp, tar), text processing with sed, and conditional logic (if) with loops (for, while). Skilled in creating reusable functions with parameter passing, line‑by‑line file processing, and programmatic generation of content in Python (__manifest__.py) and XML formats. Expertise in designing detailed logging systems. Competent in orchestrating document conversion tools such as md-to-pdf via Bash to automate professional PDF generation within CI/CD pipelines (GitHub Actions), as well as sam2p, pdftk, and pdfjam for image and document processing. Proficient in enforcing automatic retention policies with find, performing recursive file management, and handling command‑line arguments with strict validation, ensuring script robustness and reliability in production environments._
+<img src="https://github.com/vasha54/vasha54/blob/main/img/bash.png" title="Bash"  width="50" height="50"> _Extensive experience in developing automation scripts for Linux environments, ranging from Odoo module structure generation and the implementation of robust backup systems for platforms such as Moodle and MySQL/PostgreSQL databases —using tools like mysqldump and pg_dump— to the automation of document processing tasks. Proficient in file and directory manipulation (mkdir, touch, cp, tar), text processing with sed, and conditional logic (if) with loops (for, while). Skilled in creating reusable functions with parameter passing, line‑by‑line file processing, and programmatic generation of content in Python (**manifest**.py) and XML formats. Expertise in designing detailed logging systems. Competent in orchestrating document conversion tools such as md-to-pdf via Bash to automate professional PDF generation within CI/CD pipelines (GitHub Actions), as well as sam2p, pdftk, and pdfjam for image and document processing. Proficient in enforcing automatic retention policies with find, performing recursive file management, and handling command‑line arguments with strict validation, ensuring script robustness and reliability in production environments._
 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/python.png" title="Python"  width="50" height="50"> _I have extensive experience in Python development across multiple domains: customization and creation of modules within the Odoo ecosystem (versions 12 to 18), including PDF/Excel reporting, API consumption, and scheduled tasks. I carry out full‑stack web development with Django for human resources management, activity planning, tourism resources, and payroll generation in Excel and PDF formats. I implement RESTful APIs using Django REST Framework for communication with external applications, perform advanced customization of the Django admin interface, and build multilingual systems with translatable content stored in the database. I am proficient in data analysis and scientific computing libraries (Pandas, NumPy, Matplotlib, SciPy, Statsmodels) for building desktop applications focused on multiple linear regression models. I develop automation scripts for Unix environments (process management, database backups, document manipulation) and solve competitive programming challenges. I design robust solutions that combine complex business logic, statistical processing, and integration with external services. In addition, I build desktop applications with graphical interfaces for data processing and information management, structuring code into controllers, exceptions, and reusable modules, while maintaining a clean, well‑documented style focused on logical clarity._
 
@@ -288,30 +288,34 @@ _Additionally, I have solid knowledge of Java applied to online judge environmen
 
 <img src="https://github.com/vasha54/vasha54/blob/main/img/xp.png" title="Extreme Programming (XP)"  width="100" height="50"> -->
 
-
 ## Highlighted Projects
 
 ### Economic Management System "Vigía" — `vigia1.0`
+
 - Complete system for the economic management of a creative group, built with **Django** and **Python**.
 - Modules for banking operations control, income/expense management, and financial closing.
 - User interface developed with **JavaScript**, HTML, and CSS.
 
 ### Management System "APM" — `apm`
+
 - Management system with MVC architecture in **Python**.
 - Mathematical library (`libmath`) for calculations and data processing.
 - 72 commits reflecting iterative and organized development.
 
 ### API for Augmented Reality System — `sran-0tsw`
+
 - REST API (`apiv1`) for managing tourism resources.
 - Integration of SQLite database and user access control.
 - **JavaScript** frontend and **Python** backend services.
 
 ### Plugin for Moodle Quality Evaluation — `evaluationquality`
+
 - Report plugin to assess course quality according to specialist criteria.
 - Complex SQL queries combining multiple Moodle core tables.
 - Integration with Moodle's native course and category navigation.
 
 ### Enterprise Information System (EIS) — `EIS`
+
 - Designed and developed a modular enterprise information system from scratch using **C#** and **.NET**.
 - Implemented a layered architecture separating core components (`EIS.Core.Components`), business logic services (`EIS.Core.Services`), and unit tests (`EIS.Core.ServicesTests`).
 - Developed a web front-end (`EIS.Web`) to provide a user interface for the system.
@@ -320,12 +324,11 @@ _Additionally, I have solid knowledge of Java applied to online judge environmen
 - Organized the codebase into independent modules (`Modules`), enhancing maintainability and demonstrating skills in building scalable software.
 
 ### Odoo 18 Customization for Serena Care — `serena_care_odoo_18`
+
 - Developed a custom **Odoo 18** solution for a client in the healthcare sector, creating tailored addons to meet specific business requirements.
 - Managed the full configuration of the Odoo instance, including database setup (`odoo.conf`) and service orchestration, ensuring a smooth deployment.
 - Created a containerized development environment using **Docker**, demonstrating skills in modern DevOps practices and environment reproducibility.
 - Authored comprehensive technical documentation in Spanish, guiding users through the installation, configuration, and troubleshooting of the custom modules
-
-
 
 ## Publications
 
