@@ -69,11 +69,12 @@
 - **2026** – JavaScript Intermediate – [Certificate CC-F2DMBTRX](https://api2.sololearn.com/v2/certificates/CC-F2DMBTRX/image/jpg?t=639147540540596970)
 - **2026** – Vibe Coding – [Certificate CC-EHJD3VET](https://api2.sololearn.com/v2/certificates/CC-EHJD3VET/image/png?t=639147872704172086)
 - **2026** – Agentic Workflows – [Certificate CC-2KTHP1CV](https://api2.sololearn.com/v2/certificates/CC-2KTHP1CV/image/png?t=639150101960042110)
+- **2026** – Data Analytics with AI – [Certificate CC-L6FR6MTJ](https://api2.sololearn.com/v2/certificates/CC-L6FR6MTJ/image/png?t=639158520666176122)
 
 ### Other Courses
 
 - **2021** – _The distance education model of Cuban higher education in the context of the University of Matanzas_ – University of Matanzas (Virtual postgraduate course, 1 credit) – [Course link](http://evead.umcc.cu/course/view.php?id=105)
-      <!--
+  <!--
           <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_html.png" title="Course Html. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c.png" title="Course C. Sololearn platform"  width="46" height="30">
           <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_css.png" title="Course CSS. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_c_plusplus.png" title="Course C++. Sololearn platform"  width="46" height="30">
           <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_sql.png" title="Course SQL. Sololearn platform"  width="46" height="30"> <img src="https://github.com/vasha54/vasha54/blob/main/img/cer_machine_learning.png" title="Course Machine Learning. Sololearn platform"  width="46" height="30">
@@ -504,3 +505,5 @@ One team qualified for this stage of the event.
 
 - [Cristhian Ernesto Lugo Dorta](https://github.com/CELD07)
 - [Zaniel García Orihuela](https://github.com/zagaro08)
+
+
