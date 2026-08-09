@@ -1,6 +1,6 @@
 # LUIS ANDRÉS VALIDO FAJARDO
 
-**Odoo Functional Analyst – Mid-Senior | Odoo Community Edition Implementation Lead**  
+**Odoo Functional Analyst & Developer – Mid-Senior | Odoo Community Edition Implementation Lead**  
 Matanzas, Cuba | Remote with full availability for virtual client meetings
 
 📧 luis.valido1989@gmail.com | 📞 +53 53694742  
@@ -8,7 +8,9 @@ Matanzas, Cuba | Remote with full availability for virtual client meetings
 
 ## Professional Profile
 
-Functional analyst and Odoo developer with over **3 years of experience** in complete implementations of Odoo Community Edition (versions 12 to 18). Specialized in **requirements gathering, process mapping, and core module configuration** for the retail, social and healthcare, and services sectors. Proven leadership in coordinating delivery teams, managing deadlines, scope, and handoff to development, with direct client communication. Experience in real production deployments for clients such as [Serena Care](https://serenacare.idooprod.com/odoo) (care management for nursing homes) and [Das-Cortez](https://das-cortez.idooprod.com/). Strong technical foundation to accurately understand and define the boundary between functional configuration and custom development.
+Functional analyst and Odoo developer with over **3 years of experience** in complete implementations of Odoo Community Edition (versions 12 to 18). I cover the whole project lifecycle: **requirements gathering, business process mapping, configuration, and full custom development of multi-module suites** (from 14 to 400+ installable addons per project). Proven leadership in coordinating delivery teams, managing deadlines, scope, and handoff between functional configuration and development, with direct client communication.
+
+Real production deployments include [Serena Care](https://serenacare.idoopprod.com/odoo) (care management for nursing homes), [Das-Cortez](https://das-cortez.idoopprod.com/) (multi-branch restaurant chain), **Provea** (national economic actors registry), **APN Pilates** (gym/wellness chain), and **SisCost** (printing industry). Strong technical foundation — Python, PostgreSQL, OWL/JavaScript, REST APIs — to accurately define the boundary between functional configuration and custom development.
 
 ## Key Skills
 
@@ -17,19 +19,32 @@ Functional analyst and Odoo developer with over **3 years of experience** in com
 - Requirements gathering and business process mapping.
 - Configuration of core modules: Sales, Purchases, Inventory, Point of Sale (POS), CRM, Invoicing, Contacts, Website (eCommerce).
 - Scope definition (SOW), backlog management, and functional handoff to development.
-- Creation of functional and technical documentation in Spanish.
+- Creation of functional and technical documentation in English and Spanish.
+
+**Odoo Technical Development**
+
+- Design and implementation of complete custom module suites: models, views, wizards, security (ACL/record rules), cron jobs, QWeb reports.
+- REST/JSON APIs with **JWT (PyJWT)** and **OAuth2 (Google)** authentication, OpenAPI 3.0 + Swagger UI, JSON-RPC.
+- Frontend with **OWL 2 components (ESM)**, Chart.js, SCSS theming, dashboards.
+- External integrations: **Firebase Cloud Messaging** (push), **Stripe** webhooks, Google OAuth, SMTP, QR codes.
+- **ETL and data migration** from legacy ERPs (SQL Server via ODBC/pyodbc), idempotent mass data loading (40,000+ records).
 
 **Industry Experience**
 
-- Social and healthcare: resident management, care planning, activity tracking, integration with billing systems.
+- Retail & food service: multi-branch (multi-company) operations, QR ordering, loyalty points, promotions engine.
+- Social and healthcare: resident management, care planning, medication management, geriatric assessment scales, billing integration.
+- Gyms/wellness: memberships, class scheduling and attendance, loyalty points.
+- Printing industry: technical cards, production cost sheets, MRP, HR, accounting.
+- Government economic registries: B2B data portals, business-opportunity detection engine, public REST APIs + React SPA.
 
 **Odoo Technical Stack**
 
-- Python (module customization, business rules, automations, scheduled tasks).
-- PostgreSQL (complex queries, migrations, optimization).
-- XML (views, reports, dashboards).
-- Docker (development and production environments with Docker Compose).
-- Git and GitHub Actions (CI/CD for automated deployments).
+- **Python** (module customization, business rules, computed fields, constraints, schedulers).
+- **PostgreSQL** (complex queries, migrations, optimization) and **SQL Server** (ODBC/pyodbc).
+- **XML** (views, QWeb, reports, dashboards, data files) and **OWL/JavaScript** (modern frontend).
+- **Docker / Docker Compose** (development and production environments, Odoo + PostgreSQL).
+- **Git and GitHub Actions** (CI/CD for automated deployments, SSH deploys).
+- OCA modules: `web_responsive`, `base_multi_company`, `product_multi_company`, `loyalty`, `rating`.
 
 **Additional Skills**
 
@@ -44,28 +59,54 @@ Functional analyst and Odoo developer with over **3 years of experience** in com
 _2023 – Present (3+ years)_
 
 - Implementation of enterprise solutions on **Odoo Community Edition** (versions 12 to 18), covering the full cycle: requirements gathering, configuration, customization, testing, and production deployment.
+- Design and development of complete custom suites (14 to 400+ addons per project) for clients in restaurants, real estate, wellness, printing, and government sectors.
 - Correction of non-conformities and adaptation of modules to each client's specific needs.
-- Direct coordination with clients for scope definition, progress presentations, and adjustment negotiation.
-- Real production deployments: [Serena Care](https://serenacare.idooprod.com/odoo) (care management for nursing homes and rest homes) and [Das-Cortez](https://das-cortez.idooprod.com/) (retail).
-- Work with Python and PostgreSQL as core backend technologies.
+- Direct coordination with clients for scope definition, progress presentations, and negotiation of adjustments.
+- Real production deployments: [Serena Care](https://serenacare.idoopprod.com/odoo), [Das-Cortez](https://das-cortez.idoopprod.com/), Provea, APN Pilates, SisCost.
+- Work with Python, PostgreSQL, OWL/JavaScript, and Docker as core technologies.
 
-**Highlighted Projects with Odoo 18 CE**
+**Highlighted Projects with Odoo EC**
 
-**Provea** – Supply and retail management system
+### Provea — Economic actors registry platform (Odoo 18 CE)
 
 - [Repository: Desoft-Division-Matanzas/provea_odoo18](https://github.com/Desoft-Division-Matanzas/provea_odoo18)
-- Implementation of Sales, Purchases, and Inventory modules with multi-warehouse traceability.
-- B2B customer portal integration.
-- Custom iconography and visual assets design for the interface.
+- Full architectural design and implementation of **400+ installable addons** (30 core + 185 territory importers + 185 product importers), ~46 business models, 59 XML views, 33 QWeb/Owl templates.
+- Mass data loading: **40,852 Cuban companies** (336 XML files, ~563k lines), classifiers up to 7 levels (CPC 2.01: 7,406 codes, CNAE: 775, NAE: 337).
+- **Public REST API with ~63 endpoints**, OpenAPI 3.0 auto-generated with Swagger UI, JSON-RPC gateway, and a React SPA served by Odoo.
+- Automatic user provisioning with security policy compliance; 4-role RBAC (admin, support, director, commercial) with record rules.
+- CRM opportunity engine combining product similarity (**Jaro-Winkler + Levenshtein**) and territorial proximity, with notifications via email, SMS, and Discuss.
+- OWL dashboards with Chart.js widgets, SCSS theming, `web_responsive` integration.
 
-**Serena Care** – Care management platform for residents in nursing homes and rest homes
+### Serena Care — Care management for nursing homes (Odoo 18 CE)
 
 - [Repository: vasha54/serena_care_odoo_18](https://github.com/vasha54/serena_care_odoo_18)
-- Analysis and modeling of admission processes, care planning, daily activity tracking, and medication management.
-- CRM configuration adapted to resident and family records, with billing integration.
-- Coordination of custom development: staff shift calendars, resident progress reports, and QR payment gateway integration.
-- Complete technical documentation in Spanish for the client.
-- Environment containerization with Docker for development and deployment.
+- Suite of **30+ custom modules**: resident clinical records, **6 validated geriatric assessment scales** (Barthel, Lawton-Brody, Norton, FRAIL, GDS-5, SARC-F), care plans, medication/pharmacy with lots and expirations, water balance, nutrition, medical reports.
+- **API Gateway**: 52 HTTP controllers, **95 endpoints** with OAuth2 + JWT (HS256) authentication and Swagger documentation.
+- 11 QWeb medical reports with 33 reusable templates and **XLSX export (xlsxwriter)**.
+- Cloud automation: resident overall status calculation rules, dose generation, push notifications via **Firebase Cloud Messaging**.
+- OWL executive dashboard with Chart.js, record audit, soft-delete on sensitive models; Docker deployment.
+
+### Das-Cortez — Multi-branch restaurant chain suite (Odoo 17)
+
+- Implementation for a restaurant chain with **multiple independent branches (multi-company)** and a mobile app.
+- **14 highly interconnected custom modules**: order lifecycle (order → QR → payment → preparation → delivery → push notification → pickup), loyalty points, promotions engine, order accessories/gifts, Excel product importers.
+- **Stripe** webhook payment reconciliation, **Firebase Cloud Messaging** push notifications, Google OAuth signup with reCAPTCHA, multi-company tax wizards, and leaflet store map with geolocation.
+- **REST API documented in OpenAPI/Swagger** consumed by a Flutter mobile app.
+
+### APN Pilates — Gym/pilates chain suite (Odoo 18 CE)
+
+- **27 custom addons** for a multi-branch pilates/gym chain: multi-company architecture, branch geolocation, rooms and schedules, role-based permission (Admin, Support, Branch Admin, Reception, Instructor, Client).
+- **REST API with ~103 endpoints** under `/api_pilates/v1/` with **JWT (HS256, PyJWT)** auth, single active token per user, configurable TTL, CORS, Swagger UI.
+- Firebase Cloud Messaging, Google OAuth2 registration (Fernet-encrypted secret), loyalty points, memberships, class booking/attendance with QR and absence automation.
+- OWL dashboards with Chart.js KPI widgets, SCSS corporate theme, Docker Compose (Odoo 18 + PostgreSQL 17), GitHub Actions CI/CD.
+
+### SisCost PoliGraph — Printing industry integral system (Odoo 18 CE)
+
+- Suite of **22 interconnected addons** (~7,000 lines of Python) covering the full shop cycle: sales, technical card, production costs, HR, inventory, MRP, accounting.
+- Expert domain model: technical card (~900 lines) with chained computed fields and A4 PDF QWeb report; cost calculation engine with **19 expense concepts** and validation.
+- **ETL integration** from legacy ERP **Versat/Sarasola** via SQL Server (pyodbc) with encrypted credentials (Fernet/PBKDF2) and scheduled (cron) synchronization.
+- OWL dashboard with Chart.js, Sass branding theme, RBAC, record rules; Docker and Git/GitLab versioning.
+- Repository: `gitlab.desoft.cu/{poligraph}/fuentes.git`.
 
 ### Backend Developer — Merchise Autrement
 
@@ -86,11 +127,13 @@ _2008 – 2013_
 
 ## Technical Skills
 
-Languages: Python · JavaScript · PHP · SQL · C++ · Java  
-Frameworks: Django · Odoo · Qt · Moodle API  
-Databases: PostgreSQL · MySQL · SQLite  
-Tools: Git · Version control · Agile methodologies  
-Other: REST APIs · MVC Architecture · SCADA · Access control
+Languages: Python · JavaScript (ESM) · PHP · SQL · C++ · Java  
+Frameworks: Odoo 12–18 · Django · OWL 2 · Qt · Moodle API · Blazor  
+Frontend: OWL components · Chart.js · SCSS/CSS · QWeb · React  
+Databases: PostgreSQL · MySQL · SQLite · SQL Server (ODBC)  
+APIs: REST/JSON · JWT (PyJWT) · OAuth2 (Google) · OpenAPI/Swagger · Firebase · Stripe · JSON-RPC  
+Tools: Docker / Docker Compose · Git · GitHub Actions · Linux (systemd) · Agile methodologies  
+Other: ETL and data migration · RBAC · record rules · QR codes · XLSX reports · OCA modules
 
 ## Relevant Certifications
 
@@ -99,6 +142,8 @@ Other: REST APIs · MVC Architecture · SCADA · Access control
 - Python for Data Science – SoloLearn (2021)
 - Data Science with Python – SoloLearn (2020)
 - Python Developer – SoloLearn (2023)
+- JavaScript Intermediate – SoloLearn (2026)
+- Data Analytics with AI – SoloLearn (2026)
 
 ## Languages
 

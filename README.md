@@ -248,7 +248,7 @@ _Additionally, I have solid knowledge of Java applied to online judge environmen
 
 #### ERP
 
-<img src="https://github.com/vasha54/vasha54/blob/main/img/odoo.svg" title="Odoo"  width="50" height="50"> _Proven expertise in the full lifecycle of Odoo development, from deployment across versions 12 through 18 to advanced customization and integration. Skilled in modifying existing models and addons as well as building custom modules from scratch. Adept at generating complex PDF and Excel reports, consuming external APIs for seamless data migration, and configuring automated scheduled tasks. Strong front-end capability includes the design of both standard views and complex custom interfaces with integrated graphical components. Experience includes the live deployment of tailored solutions for production use cases at [Serena Care](https://serenacare.idooprod.com/odoo) and [Das-Cortez](https://das-cortez.idooprod.com/) ._
+<img src="https://github.com/vasha54/vasha54/blob/main/img/odoo.svg" title="Odoo"  width="50" height="50"> _Proven expertise in the full lifecycle of Odoo development, from deployment across versions 12 through 18 to advanced customization and integration. Skilled in modifying existing models and addons as well as building custom modules from scratch. Adept at generating complex PDF and Excel reports, consuming external APIs for seamless data migration, and configuring automated scheduled tasks. Strong front-end capability includes OWL 2 components with Chart.js dashboards, SCSS theming, and REST/JSON APIs with JWT and OAuth2 authentication documented in Swagger. Experience includes production deployments for [Serena Care](https://serenacare.idooprod.com/odoo), [Das-Cortez](https://das-cortez.idooprod.com/), the national Provea economic registry platform, the APN Pilates gym chain suite, and the SisCost/PoliGraph printing industry system._
 
 #### Database manager
 
@@ -324,12 +324,62 @@ _Additionally, I have solid knowledge of Java applied to online judge environmen
 - Configured **LDAP** integration (`ldap.config`) for enterprise-grade user authentication and directory services.
 - Organized the codebase into independent modules (`Modules`), enhancing maintainability and demonstrating skills in building scalable software.
 
-### Odoo 18 Customization for Serena Care — `serena_care_odoo_18`
+### Serena Care — Complete Odoo 18 geriatric care suite
 
 - Developed a custom **Odoo 18** solution for a client in the healthcare sector, creating tailored addons to meet specific business requirements.
+- Suite of **30+ custom modules** for nursing home management: resident clinical records, **6 validated geriatric assessment scales** (Barthel, Lawton-Brody, Norton, FRAIL, GDS-5, SARC-F), care plans, pharmacy and medication inventory, water balance, nutrition, and medical reports.
+- **API Gateway (sc_api):** 52 HTTP controllers and **95 endpoints** with OAuth2 + JWT (HS256) authentication, configurable token expiration, and Swagger documentation.
+- 11 QWeb medical reports with 33 reusable template sections, PDF and **XLSX export (xlsxwriter)**, and automatic interpretation of assessment scales.
+- Cloud automation: scheduled tasks (cron) computing the resident's overall status, medication dose generation, and an API heartbeat.
+- OWL executive dashboard with Chart.js visualizations (bar, pie, doughnut), SCSS theming, custom login, and reusable BoolBadge widgets.
+- Push notifications with **Firebase Cloud Messaging**, record audit, soft-delete on sensitive models.
 - Managed the full configuration of the Odoo instance, including database setup (`odoo.conf`) and service orchestration, ensuring a smooth deployment.
-- Created a containerized development environment using **Docker**, demonstrating skills in modern DevOps practices and environment reproducibility.
-- Authored comprehensive technical documentation in Spanish, guiding users through the installation, configuration, and troubleshooting of the custom modules
+- Created a containerized development environment using **Docker**; versioning with Git and Conventional Commits.
+- Authored comprehensive technical documentation in Spanish, guiding users through the installation, configuration, and troubleshooting of the custom modules.
+
+### APN Pilates — Complete Odoo 18 Business Suite
+**Full-stack Odoo developer** — 27 custom addons for a multi-branch Pilates/gym chain management system.
+
+- **Architecture:** Multi-company (branches with geolocation, rooms, schedules), role-based permissions (Admin, Technical Support, Branch Admin, Reception, Instructor, Client)
+- **REST API (apn_api):** ~103 endpoints under `/api_pilates/v1/` with JWT authentication (HS256, PyJWT), single active token per user, configurable TTL, logout invalidation, CORS, uniform JSON responses, Swagger UI. Covers product catalog, classes, memberships, loyalty points, orders, incidents with image upload, reviews, profiles, passwords, and instructors.
+- **Push Notifications (apn_notifications):** Firebase Cloud Messaging integration (`firebase-admin`), device registration, topic/token-based sending, automatic obsolete token cleanup.
+- **Google OAuth2 Registration (apn_signup):** Custom integration with Fernet-encrypted client_secret, allowed domain validation, automatic user creation, account activation via code + email, strong passwords, lockout after attempts, cleanup cron job.
+- **Multi-branch (apn_company, apn_stock):** Company-branch model with validated rooms/schedules (midnight crossings, overlaps), automatic warehouse provisioning per branch, geolocation, record rules (ir.rule) for branch-level data visibility.
+- **Business Domain:** Products with variants (memberships, classes, accessories), memberships with benefits and class consumption, loyalty points (accumulate/redeem per branch), class booking/attendance (QR + automatic absence marking), sales with extended status flow (`draft → pending_payment → ready_to_pickup → completed`), gifts with recipients, incidents with states and reasons, reviews/ratings (1-10 per indicator), QR on order (JSON + image), privacy notice, and mobile app versioning (iOS/Android/HarmonyOS).
+- **OWL Dashboards (apn_suite, apn_charts):** Survey widgets (13 types with Chart.js), KPI dashboard (occupancy, revenue, weekly attendance, most demanded classes) with date filters and login customization.
+- **Corporate Theme (apn_theme):** SCSS customization in 3 variants (classic, dark, base) applied to backend and frontend assets.
+- **Operations & Deployment:** Mail server configuration from environment variables (apn_mail_env_config with SMTP test), Docker Compose (Odoo 18 + PostgreSQL 17), GitHub Actions with SSH deploy and `docker service update --force`, Makefile with development/deployment targets, Git (94 commits, conventional messages).
+
+**Tech Stack:** Python 3, Odoo 18 Community, PostgreSQL 17, OWL/JavaScript (ESM), Chart.js, SCSS, Docker, GitHub Actions, qrcode/Pillow, cryptography (Fernet), google-auth, firebase-admin, PyJWT.
+
+### Provea — Economic Actors Registry Platform (Odoo 18 Community)
+
+- **400+ installable addons** (30 core addons + 185 company importers by territory + 185 product importers by company), ~46 business models, 59 XML views, 33 QWeb/Owl templates for a national economic actors registry.
+- **Mass data loading:** 40,852 Cuban companies (336 XML files, ~563k lines) and hierarchical classifiers up to 7 levels (CPCU 2.01: 7,406 codes, CNAE: 775, NAE: 337).
+- **Public REST API (≈63 endpoints)** with uniform response wrapper, auto-generated **OpenAPI 3.0 + Swagger UI**, JSON-RPC gateway with model whitelist, and a **React SPA** served by Odoo itself.
+- **Automatic user provisioning**: creating a company generates Director and Commercial users with normalized logins and deterministic passwords compliant with security policy.
+- **Smart CRM opportunity engine**: fuzzy product similarity (**Jaro-Winkler + Levenshtein**) plus territorial proximity to generate valued leads (0-5), with notifications by email, SMS, internal message, and Discuss (3 cron jobs).
+- **Statistics dashboards**: computed columns serialized as JSON rendered by OWL `donut_chart`/`pie_chart` widgets (Chart.js) — distribution and diversification by sector/province/municipality and sale/purchase/export/import.
+- **Cascading security**: 4 PROVEA roles (admin, support, director, commercial), ACL per model, record rules by assigned company, password policy validation on create/write.
+
+### Das-Cortez — Multi-branch Restaurant Suite with Mobile App (Odoo 17)
+
+- **14 custom modules** for a restaurant chain with independent branches (multi-company): `dc_product`, `dc_product_import`, `dc_loyalty_points`, `dc_promotions`, `dc_sale`, `dc_stock`, `dc_notifications`, `dc_api`, `dc_branches`, `dc_signup`, `dc_mobile_app_versioning`, `dc_multi_company_taxes`, `dc_menu`, `dc_suite`.
+- **QR order flow**: QR embedded in the order (client, amount, date), custom states `preparing / ready / delivered`, `arrival_time` countdown via cron, and visual time traffic light.
+- **Loyalty and promotions**: custom loyalty points system with redemption validation and reversal on cancellation; promotions engine (percentage/fixed amounts, quantity minimums, date windows, branch restriction) synced with native `loyalty.program`/`loyalty.reward`.
+- **Mobile app integration**: JSON-RPC API documented in **OpenAPI/Swagger** consumed by a Flutter app; push notifications via **Firebase Cloud Messaging**; mobile app versioning (iOS/Android/HarmonyOS) with mandatory versions.
+- **Integrations**: Stripe webhooks (`charge.succeeded` → payment + token), Google OAuth registration with reCAPTCHA and GDPR account deletion, multi-company tax wizards, Leaflet map with geolocation (Haversine) for nearby branches.
+- **Batch inventory adjustment** per branch (modes `set / add / transfer`) generating `stock.move`/`stock.picking`; Excel product importer with category hierarchy, variants, and idempotent external IDs.
+
+### SisCost / PoliGraph — Printing Industry Integral System (Odoo 18 Community)
+
+- Suite of **22 interconnected addons** (~7,000 lines of Python) covering the full business cycle for a Cuban printing company: sales, technical card, production costs, HR, inventory, MRP, accounting.
+- **Expert domain modeling**: printing technical card (`tech_card`, ~900 lines of Python) with chained computed fields (cost per norm × unit price, salaries, plate/paper dimensions) and an A4 **QWeb PDF report**; cost sheet engine with **19 expense concepts**, partial totals, unit costs, and validation average.
+- **ETL integration** from legacy ERP **Versat/Sarasola** via SQL Server (pyodbc) with Fernet/PBKDF2 encrypted credentials and scheduled synchronization; idempotent data converter with upsert by external ID and field-to-field mappings.
+- **Custom sales workflow** with own states and time measurement per state from `mail.tracking.value` for management control metrics.
+- **OWL dashboard** with live indicator cards (`useService('orm')`) and custom HTTP controllers (`/web/binary/company_logo`, `/favicon.ico`); brand Sass theme, login customization, `web_responsive`.
+- **Security and RBAC**: custom access groups, record rules, password policies, automatic user creation per company; `post_init_hook` modules renaming standard Odoo groups to avoid collisions.
+
 
 ## Publications
 
