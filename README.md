@@ -70,6 +70,9 @@
 - **2026** – Vibe Coding – [Certificate CC-EHJD3VET](https://api2.sololearn.com/v2/certificates/CC-EHJD3VET/image/png?t=639147872704172086)
 - **2026** – Agentic Workflows – [Certificate CC-2KTHP1CV](https://api2.sololearn.com/v2/certificates/CC-2KTHP1CV/image/png?t=639150101960042110)
 - **2026** – Data Analytics with AI – [Certificate CC-L6FR6MTJ](https://api2.sololearn.com/v2/certificates/CC-L6FR6MTJ/image/png?t=639158520666176122)
+- **2026** - AI-Powered A/B Testing - [Certificate CC-YQDVWMPO](https://api2.sololearn.com/v2/certificates/CC-YQDVWMPO/image/png?t=639162785191634600)
+- **2026** - Meet Claude - [Certificate CC-MUELR41E](https://api2.sololearn.com/v2/certificates/CC-MUELR41E/image/png?t=639294308657822240)
+- **2026** - Project Planning with AI - [Certificate CC-S2XHLBRG](https://api2.sololearn.com/v2/certificates/CC-S2XHLBRG/image/png?t=639306012857036601)
 
 ### Other Courses
 
